@@ -1,0 +1,1498 @@
+Customer #1671807 arrived at 1min 27sec and joined the queue.
+Customer #1671807 left the queue at 1min 27sec and approached window #0.
+Customer #1671808 arrived at 1min 32sec and joined the queue.
+Customer #1671808 left the queue at 1min 32sec and approached window #1.
+Customer #1671809 arrived at 2min 54sec and joined the queue.
+Customer #1671810 arrived at 2min 54sec and joined the queue.
+Customer #1671811 arrived at 2min 54sec and joined the queue.
+Customer #1671808 left the window #1 at 3min 32sec and went away fully satisfied.
+Customer #1671809 left the queue at 3min 32sec and approached window #1.
+Customer #1671812 arrived at 4min 8sec and joined the queue.
+Customer #1671807 left the window #0 at 4min 21sec and went away fully satisfied.
+Customer #1671810 left the queue at 4min 21sec and approached window #0.
+Customer #1671809 left the window #1 at 4min 31sec and went away fully satisfied.
+Customer #1671811 left the queue at 4min 31sec and approached window #1.
+Customer #1671813 arrived at 5min 46sec and joined the queue.
+Customer #1671814 arrived at 6min 17sec and joined the queue.
+Customer #1671815 arrived at 6min 17sec and joined the queue.
+Customer #1671816 arrived at 6min 17sec and joined the queue.
+Customer #1671811 left the window #1 at 6min 30sec and went away fully satisfied.
+Customer #1671812 left the queue at 6min 30sec and approached window #1.
+Customer #1671810 left the window #0 at 6min 34sec and went away fully satisfied.
+Customer #1671813 left the queue at 6min 34sec and approached window #0.
+Customer #1671817 arrived at 6min 43sec and joined the queue.
+Customer #1671818 arrived at 6min 43sec and joined the queue.
+Customer #1671819 arrived at 6min 43sec and joined the queue.
+Customer #1671820 arrived at 8min 32sec and joined the queue.
+Customer #1671821 arrived at 8min 32sec and joined the queue.
+Customer #1671822 arrived at 8min 32sec and joined the queue.
+Customer #1671823 arrived at 8min 32sec and joined the queue.
+Customer #1671813 left the window #0 at 8min 39sec and went away fully satisfied.
+Customer #1671814 left the queue at 8min 39sec and approached window #0.
+Customer #1671824 arrived at 9min 0sec and joined the queue.
+Customer #1671825 arrived at 9min 18sec and joined the queue.
+Customer #1671826 arrived at 9min 18sec and joined the queue.
+Customer #1671827 arrived at 9min 18sec and joined the queue.
+Customer #1671828 arrived at 9min 18sec and joined the queue.
+Customer #1671812 left the window #1 at 9min 27sec and went away fully satisfied.
+Customer #1671815 left the queue at 9min 27sec and approached window #1.
+Customer #1671829 arrived at 9min 57sec and joined the queue.
+Customer #1671830 arrived at 11min 0sec and joined the queue.
+Customer #1671831 arrived at 11min 0sec and joined the queue.
+Customer #1671814 left the window #0 at 11min 17sec and went away fully satisfied.
+Customer #1671816 left the queue at 11min 17sec and approached window #0.
+Customer #1671832 arrived at 11min 48sec and joined the queue.
+Customer #1671815 left the window #1 at 12min 25sec and went away fully satisfied.
+Customer #1671817 left the queue at 12min 25sec and approached window #1.
+Customer #1671833 arrived at 12min 45sec and joined the queue.
+Customer #1671834 arrived at 12min 45sec and joined the queue.
+Customer #1671816 left the window #0 at 13min 54sec and went away fully satisfied.
+Customer #1671818 left the queue at 13min 54sec and approached window #0.
+Customer #1671835 arrived at 14min 27sec and joined the queue.
+Customer #1671817 left the window #1 at 15min 8sec and went away fully satisfied.
+Customer #1671819 left the queue at 15min 8sec and approached window #1.
+Customer #1671836 arrived at 15min 21sec and joined the queue.
+Customer #1671837 arrived at 15min 21sec and joined the queue.
+Customer #1671838 arrived at 15min 21sec and joined the queue.
+Customer #1671839 arrived at 15min 31sec and joined the queue.
+Customer #1671840 arrived at 15min 39sec and joined the queue.
+Customer #1671841 arrived at 15min 39sec and joined the queue.
+Customer #1671819 left the window #1 at 16min 25sec and went away fully satisfied.
+Customer #1671820 left the queue at 16min 25sec and approached window #1.
+Customer #1671818 left the window #0 at 16min 47sec and went away fully satisfied.
+Customer #1671821 left the queue at 16min 47sec and approached window #0.
+Customer #1671842 arrived at 17min 25sec and joined the queue.
+Customer #1671843 arrived at 17min 25sec and joined the queue.
+Customer #1671844 arrived at 17min 25sec and joined the queue.
+Customer #1671845 arrived at 17min 25sec and joined the queue.
+Customer #1671846 arrived at 17min 25sec and joined the queue.
+Customer #1671847 arrived at 17min 25sec and joined the queue.
+Customer #1671848 arrived at 17min 48sec and joined the queue.
+Customer #1671849 arrived at 17min 48sec and joined the queue.
+Customer #1671821 left the window #0 at 18min 23sec and went away fully satisfied.
+Customer #1671822 left the queue at 18min 23sec and approached window #0.
+Customer #1671820 left the window #1 at 18min 39sec and went away fully satisfied.
+Customer #1671823 left the queue at 18min 39sec and approached window #1.
+Customer #1671850 arrived at 19min 28sec and joined the queue.
+Customer #1671851 arrived at 19min 28sec and joined the queue.
+Customer #1671822 left the window #0 at 20min 3sec and went away fully satisfied.
+Customer #1671824 left the queue at 20min 3sec and approached window #0.
+Customer #1671852 arrived at 20min 52sec and joined the queue.
+Customer #1671853 arrived at 20min 52sec and joined the queue.
+Customer #1671854 arrived at 21min 27sec and joined the queue.
+Customer #1671855 arrived at 21min 27sec and joined the queue.
+Customer #1671856 arrived at 21min 27sec and joined the queue.
+Customer #1671823 left the window #1 at 21min 31sec and went away fully satisfied.
+Customer #1671825 left the queue at 21min 31sec and approached window #1.
+Customer #1671857 arrived at 22min 25sec and joined the queue.
+Customer #1671858 arrived at 22min 25sec and joined the queue.
+Customer #1671859 arrived at 22min 25sec and joined the queue.
+Customer #1671860 arrived at 22min 25sec and joined the queue.
+Customer #1671861 arrived at 22min 36sec and joined the queue.
+Customer #1671862 arrived at 22min 36sec and joined the queue.
+Customer #1671863 arrived at 22min 43sec and joined the queue.
+Customer #1671864 arrived at 22min 43sec and joined the queue.
+Customer #1671825 left the window #1 at 22min 55sec and went away fully satisfied.
+Customer #1671826 left the queue at 22min 55sec and approached window #1.
+Customer #1671824 left the window #0 at 23min 2sec and went away fully satisfied.
+Customer #1671827 left the queue at 23min 2sec and approached window #0.
+Customer #1671865 arrived at 24min 31sec and joined the queue.
+Customer #1671866 arrived at 24min 31sec and joined the queue.
+Customer #1671826 left the window #1 at 24min 49sec and went away fully satisfied.
+Customer #1671828 left the queue at 24min 49sec and approached window #1.
+Customer #1671867 arrived at 25min 35sec and joined the queue.
+Customer #1671868 arrived at 25min 35sec and joined the queue.
+Customer #1671827 left the window #0 at 25min 41sec and went away fully satisfied.
+Customer #1671829 left the queue at 25min 41sec and approached window #0.
+Customer #1671869 arrived at 25min 47sec and joined the queue.
+Customer #1671870 arrived at 25min 47sec and joined the queue.
+Customer #1671871 arrived at 25min 47sec and joined the queue.
+Customer #1671829 left the window #0 at 26min 37sec and went away fully satisfied.
+Customer #1671830 left the queue at 26min 37sec and approached window #0.
+Customer #1671872 arrived at 27min 23sec and joined the queue.
+Customer #1671873 arrived at 27min 23sec and joined the queue.
+Customer #1671828 left the window #1 at 27min 37sec and went away fully satisfied.
+Customer #1671831 left the queue at 27min 37sec and approached window #1.
+Customer #1671830 left the window #0 at 28min 12sec and went away fully satisfied.
+Customer #1671832 left the queue at 28min 12sec and approached window #0.
+Customer #1671874 arrived at 28min 56sec and joined the queue.
+Customer #1671875 arrived at 28min 56sec and joined the queue.
+Customer #1671831 left the window #1 at 29min 15sec and went away fully satisfied.
+Customer #1671833 left the queue at 29min 15sec and approached window #1.
+Customer #1671876 arrived at 30min 42sec and joined the queue.
+Customer #1671877 arrived at 30min 42sec and joined the queue.
+Customer #1671833 left the window #1 at 30min 49sec and went away fully satisfied.
+Customer #1671834 left the queue at 30min 49sec and approached window #1.
+Customer #1671832 left the window #0 at 31min 12sec and went away fully satisfied.
+Customer #1671835 left the queue at 31min 12sec and approached window #0.
+Customer #1671878 arrived at 31min 38sec and joined the queue.
+Customer #1671879 arrived at 31min 38sec and joined the queue.
+Customer #1671835 left the window #0 at 32min 19sec and went away fully satisfied.
+Customer #1671836 left the queue at 32min 19sec and approached window #0.
+Customer #1671834 left the window #1 at 32min 34sec and went away fully satisfied.
+Customer #1671837 left the queue at 32min 34sec and approached window #1.
+Customer #1671880 arrived at 32min 49sec and joined the queue.
+Customer #1671881 arrived at 32min 49sec and joined the queue.
+Customer #1671882 arrived at 34min 25sec and joined the queue.
+Customer #1671883 arrived at 34min 25sec and joined the queue.
+Customer #1671837 left the window #1 at 35min 20sec and went away fully satisfied.
+Customer #1671836 left the window #0 at 35min 20sec and went away fully satisfied.
+Customer #1671838 left the queue at 35min 20sec and approached window #1.
+Customer #1671839 left the queue at 35min 20sec and approached window #0.
+Customer #1671884 arrived at 36min 1sec and joined the queue.
+Customer #1671885 arrived at 36min 1sec and joined the queue.
+Customer #1671838 left the window #1 at 36min 47sec and went away fully satisfied.
+Customer #1671840 left the queue at 36min 47sec and approached window #1.
+Customer #1671886 arrived at 37min 39sec and joined the queue.
+Customer #1671839 left the window #0 at 37min 52sec and went away fully satisfied.
+Customer #1671841 left the queue at 37min 52sec and approached window #0.
+Customer #1671840 left the window #1 at 38min 14sec and went away fully satisfied.
+Customer #1671842 left the queue at 38min 14sec and approached window #1.
+Customer #1671887 arrived at 38min 44sec and joined the queue.
+Customer #1671888 arrived at 38min 44sec and joined the queue.
+Customer #1671889 arrived at 39min 16sec and joined the queue.
+Customer #1671890 arrived at 39min 16sec and joined the queue.
+Customer #1671891 arrived at 39min 16sec and joined the queue.
+Customer #1671841 left the window #0 at 39min 39sec and went away fully satisfied.
+Customer #1671843 left the queue at 39min 39sec and approached window #0.
+Customer #1671842 left the window #1 at 40min 14sec and went away fully satisfied.
+Customer #1671844 left the queue at 40min 14sec and approached window #1.
+Customer #1671892 arrived at 40min 53sec and joined the queue.
+Customer #1671893 arrived at 40min 53sec and joined the queue.
+Customer #1671894 arrived at 40min 53sec and joined the queue.
+Customer #1671895 arrived at 40min 53sec and joined the queue.
+Customer #1671896 arrived at 40min 53sec and joined the queue.
+Customer #1671843 left the window #0 at 41min 15sec and went away fully satisfied.
+Customer #1671845 left the queue at 41min 15sec and approached window #0.
+Customer #1671844 left the window #1 at 41min 18sec and went away fully satisfied.
+Customer #1671846 left the queue at 41min 18sec and approached window #1.
+Customer #1671897 arrived at 41min 39sec and joined the queue.
+Customer #1671898 arrived at 41min 39sec and joined the queue.
+Customer #1671899 arrived at 41min 39sec and joined the queue.
+Customer #1671900 arrived at 41min 39sec and joined the queue.
+Customer #1671901 arrived at 42min 31sec and joined the queue.
+Customer #1671902 arrived at 42min 31sec and joined the queue.
+Customer #1671903 arrived at 42min 31sec and joined the queue.
+Customer #1671904 arrived at 42min 31sec and joined the queue.
+Customer #1671905 arrived at 43min 3sec and joined the queue.
+Customer #1671845 left the window #0 at 43min 36sec and went away fully satisfied.
+Customer #1671847 left the queue at 43min 36sec and approached window #0.
+Customer #1671906 arrived at 43min 40sec and joined the queue.
+Customer #1671846 left the window #1 at 43min 44sec and went away fully satisfied.
+Customer #1671848 left the queue at 43min 44sec and approached window #1.
+Customer #1671907 arrived at 45min 10sec and joined the queue.
+Customer #1671847 left the window #0 at 45min 55sec and went away fully satisfied.
+Customer #1671849 left the queue at 45min 55sec and approached window #0.
+Customer #1671848 left the window #1 at 46min 0sec and went away fully satisfied.
+Customer #1671850 left the queue at 46min 0sec and approached window #1.
+Customer #1671908 arrived at 46min 40sec and joined the queue.
+Customer #1671909 arrived at 46min 40sec and joined the queue.
+Customer #1671910 arrived at 46min 40sec and joined the queue.
+Customer #1671850 left the window #1 at 46min 58sec and went away fully satisfied.
+Customer #1671851 left the queue at 46min 58sec and approached window #1.
+Customer #1671911 arrived at 47min 41sec and joined the queue.
+Customer #1671912 arrived at 47min 41sec and joined the queue.
+Customer #1671913 arrived at 47min 41sec and joined the queue.
+Customer #1671914 arrived at 47min 41sec and joined the queue.
+Customer #1671849 left the window #0 at 48min 48sec and went away fully satisfied.
+Customer #1671852 left the queue at 48min 48sec and approached window #0.
+Customer #1671915 arrived at 49min 20sec and joined the queue.
+Customer #1671916 arrived at 49min 20sec and joined the queue.
+Customer #1671851 left the window #1 at 49min 36sec and went away fully satisfied.
+Customer #1671853 left the queue at 49min 36sec and approached window #1.
+Customer #1671917 arrived at 49min 53sec and joined the queue.
+Customer #1671918 arrived at 49min 53sec and joined the queue.
+Customer #1671919 arrived at 49min 53sec and joined the queue.
+Customer #1671852 left the window #0 at 50min 19sec and went away fully satisfied.
+Customer #1671854 left the queue at 50min 19sec and approached window #0.
+Customer #1671920 arrived at 51min 19sec and joined the queue.
+Customer #1671921 arrived at 51min 19sec and joined the queue.
+Customer #1671853 left the window #1 at 51min 31sec and went away fully satisfied.
+Customer #1671855 left the queue at 51min 31sec and approached window #1.
+Customer #1671922 arrived at 51min 47sec and joined the queue.
+Customer #1671923 arrived at 51min 47sec and joined the queue.
+Customer #1671924 arrived at 52min 44sec and joined the queue.
+Customer #1671925 arrived at 52min 44sec and joined the queue.
+Customer #1671854 left the window #0 at 53min 12sec and went away fully satisfied.
+Customer #1671856 left the queue at 53min 12sec and approached window #0.
+Customer #1671855 left the window #1 at 54min 2sec and went away fully satisfied.
+Customer #1671857 left the queue at 54min 2sec and approached window #1.
+Customer #1671926 arrived at 54min 4sec and joined the queue.
+Customer #1671927 arrived at 54min 4sec and joined the queue.
+Customer #1671856 left the window #0 at 54min 33sec and went away fully satisfied.
+Customer #1671858 left the queue at 54min 33sec and approached window #0.
+Customer #1671928 arrived at 55min 24sec and joined the queue.
+Customer #1671929 arrived at 55min 24sec and joined the queue.
+Customer #1671930 arrived at 55min 24sec and joined the queue.
+Customer #1671931 arrived at 55min 24sec and joined the queue.
+Customer #1671857 left the window #1 at 55min 49sec and went away fully satisfied.
+Customer #1671859 left the queue at 55min 49sec and approached window #1.
+Customer #1671932 arrived at 56min 22sec and joined the queue.
+Customer #1671858 left the window #0 at 56min 36sec and went away fully satisfied.
+Customer #1671860 left the queue at 56min 36sec and approached window #0.
+Customer #1671933 arrived at 57min 40sec and joined the queue.
+Customer #1671934 arrived at 57min 40sec and joined the queue.
+Customer #1671860 left the window #0 at 57min 54sec and went away fully satisfied.
+Customer #1671861 left the queue at 57min 54sec and approached window #0.
+Customer #1671935 arrived at 58min 6sec and joined the queue.
+Customer #1671859 left the window #1 at 58min 44sec and went away fully satisfied.
+Customer #1671862 left the queue at 58min 44sec and approached window #1.
+Customer #1671936 arrived at 59min 24sec and joined the queue.
+Customer #1671862 left the window #1 at 59min 43sec and went away fully satisfied.
+Customer #1671863 left the queue at 59min 43sec and approached window #1.
+Customer #1671937 arrived at 60min 18sec and joined the queue.
+Customer #1671938 arrived at 60min 18sec and joined the queue.
+Customer #1671861 left the window #0 at 60min 33sec and went away fully satisfied.
+Customer #1671864 left the queue at 60min 33sec and approached window #0.
+Customer #1671863 left the window #1 at 61min 50sec and went away fully satisfied.
+Customer #1671865 left the queue at 61min 50sec and approached window #1.
+Customer #1671939 arrived at 62min 0sec and joined the queue.
+Customer #1671940 arrived at 62min 50sec and joined the queue.
+Customer #1671864 left the window #0 at 63min 9sec and went away fully satisfied.
+Customer #1671866 left the queue at 63min 9sec and approached window #0.
+Customer #1671941 arrived at 63min 32sec and joined the queue.
+Customer #1671942 arrived at 63min 32sec and joined the queue.
+Customer #1671865 left the window #1 at 63min 33sec and went away fully satisfied.
+Customer #1671867 left the queue at 63min 33sec and approached window #1.
+Customer #1671943 arrived at 64min 55sec and joined the queue.
+Customer #1671867 left the window #1 at 65min 28sec and went away fully satisfied.
+Customer #1671868 left the queue at 65min 28sec and approached window #1.
+Customer #1671944 arrived at 65min 37sec and joined the queue.
+Customer #1671866 left the window #0 at 65min 58sec and went away fully satisfied.
+Customer #1671869 left the queue at 65min 58sec and approached window #0.
+Customer #1671945 arrived at 67min 20sec and joined the queue.
+Customer #1671946 arrived at 67min 20sec and joined the queue.
+Customer #1671869 left the window #0 at 68min 2sec and went away fully satisfied.
+Customer #1671870 left the queue at 68min 2sec and approached window #0.
+Customer #1671868 left the window #1 at 68min 19sec and went away fully satisfied.
+Customer #1671871 left the queue at 68min 19sec and approached window #1.
+Customer #1671947 arrived at 68min 57sec and joined the queue.
+Customer #1671948 arrived at 68min 57sec and joined the queue.
+Customer #1671949 arrived at 68min 57sec and joined the queue.
+Customer #1671871 left the window #1 at 69min 30sec and went away fully satisfied.
+Customer #1671872 left the queue at 69min 30sec and approached window #1.
+Customer #1671950 arrived at 70min 21sec and joined the queue.
+Customer #1671951 arrived at 70min 21sec and joined the queue.
+Customer #1671870 left the window #0 at 71min 5sec and went away fully satisfied.
+Customer #1671873 left the queue at 71min 5sec and approached window #0.
+Customer #1671952 arrived at 71min 42sec and joined the queue.
+Customer #1671953 arrived at 71min 42sec and joined the queue.
+Customer #1671954 arrived at 71min 42sec and joined the queue.
+Customer #1671955 arrived at 71min 42sec and joined the queue.
+Customer #1671872 left the window #1 at 72min 2sec and went away fully satisfied.
+Customer #1671874 left the queue at 72min 2sec and approached window #1.
+Customer #1671873 left the window #0 at 73min 18sec and went away fully satisfied.
+Customer #1671875 left the queue at 73min 18sec and approached window #0.
+Customer #1671956 arrived at 73min 30sec and joined the queue.
+Customer #1671957 arrived at 73min 30sec and joined the queue.
+Customer #1671958 arrived at 73min 30sec and joined the queue.
+Customer #1671874 left the window #1 at 74min 1sec and went away fully satisfied.
+Customer #1671876 left the queue at 74min 1sec and approached window #1.
+Customer #1671959 arrived at 74min 21sec and joined the queue.
+Customer #1671960 arrived at 74min 21sec and joined the queue.
+Customer #1671961 arrived at 74min 21sec and joined the queue.
+Customer #1671875 left the window #0 at 75min 20sec and went away fully satisfied.
+Customer #1671877 left the queue at 75min 20sec and approached window #0.
+Customer #1671876 left the window #1 at 75min 23sec and went away fully satisfied.
+Customer #1671878 left the queue at 75min 23sec and approached window #1.
+Customer #1671962 arrived at 75min 33sec and joined the queue.
+Customer #1671963 arrived at 77min 6sec and joined the queue.
+Customer #1671964 arrived at 77min 6sec and joined the queue.
+Customer #1671878 left the window #1 at 77min 11sec and went away fully satisfied.
+Customer #1671879 left the queue at 77min 11sec and approached window #1.
+Customer #1671877 left the window #0 at 78min 11sec and went away fully satisfied.
+Customer #1671880 left the queue at 78min 11sec and approached window #0.
+Customer #1671965 arrived at 78min 37sec and joined the queue.
+Customer #1671966 arrived at 78min 37sec and joined the queue.
+Customer #1671967 arrived at 78min 37sec and joined the queue.
+Customer #1671968 arrived at 79min 54sec and joined the queue.
+Customer #1671879 left the window #1 at 79min 56sec and went away fully satisfied.
+Customer #1671881 left the queue at 79min 56sec and approached window #1.
+Customer #1671880 left the window #0 at 80min 10sec and went away fully satisfied.
+Customer #1671882 left the queue at 80min 10sec and approached window #0.
+Customer #1671969 arrived at 81min 18sec and joined the queue.
+Customer #1671970 arrived at 81min 18sec and joined the queue.
+Customer #1671971 arrived at 81min 18sec and joined the queue.
+Customer #1671972 arrived at 81min 18sec and joined the queue.
+Customer #1671973 arrived at 81min 18sec and joined the queue.
+Customer #1671974 arrived at 81min 18sec and joined the queue.
+Customer #1671881 left the window #1 at 81min 19sec and went away fully satisfied.
+Customer #1671883 left the queue at 81min 19sec and approached window #1.
+Customer #1671882 left the window #0 at 81min 54sec and went away fully satisfied.
+Customer #1671884 left the queue at 81min 54sec and approached window #0.
+Customer #1671975 arrived at 82min 34sec and joined the queue.
+Customer #1671976 arrived at 82min 34sec and joined the queue.
+Customer #1671883 left the window #1 at 82min 44sec and went away fully satisfied.
+Customer #1671885 left the queue at 82min 44sec and approached window #1.
+Customer #1671885 left the window #1 at 83min 47sec and went away fully satisfied.
+Customer #1671886 left the queue at 83min 47sec and approached window #1.
+Customer #1671977 arrived at 84min 1sec and joined the queue.
+Customer #1671884 left the window #0 at 84min 25sec and went away fully satisfied.
+Customer #1671887 left the queue at 84min 25sec and approached window #0.
+Customer #1671978 arrived at 84min 44sec and joined the queue.
+Customer #1671979 arrived at 84min 44sec and joined the queue.
+Customer #1671980 arrived at 84min 44sec and joined the queue.
+Customer #1671981 arrived at 84min 44sec and joined the queue.
+Customer #1671982 arrived at 84min 44sec and joined the queue.
+Customer #1671983 arrived at 84min 44sec and joined the queue.
+Customer #1671886 left the window #1 at 85min 33sec and went away fully satisfied.
+Customer #1671888 left the queue at 85min 33sec and approached window #1.
+Customer #1671984 arrived at 85min 42sec and joined the queue.
+Customer #1671985 arrived at 85min 42sec and joined the queue.
+Customer #1671986 arrived at 85min 45sec and joined the queue.
+Customer #1671987 arrived at 85min 59sec and joined the queue.
+Customer #1671988 arrived at 85min 59sec and joined the queue.
+Customer #1671989 arrived at 86min 55sec and joined the queue.
+Customer #1671990 arrived at 87min 12sec and joined the queue.
+Customer #1671887 left the window #0 at 87min 15sec and went away fully satisfied.
+Customer #1671889 left the queue at 87min 15sec and approached window #0.
+Customer #1671888 left the window #1 at 88min 6sec and went away fully satisfied.
+Customer #1671890 left the queue at 88min 6sec and approached window #1.
+Customer #1671991 arrived at 88min 7sec and joined the queue.
+Customer #1671992 arrived at 88min 7sec and joined the queue.
+Customer #1671993 arrived at 88min 50sec and joined the queue.
+Customer #1671994 arrived at 88min 50sec and joined the queue.
+Customer #1671889 left the window #0 at 89min 39sec and went away fully satisfied.
+Customer #1671891 left the queue at 89min 39sec and approached window #0.
+Customer #1671995 arrived at 90min 34sec and joined the queue.
+Customer #1671996 arrived at 90min 34sec and joined the queue.
+Customer #1671997 arrived at 90min 34sec and joined the queue.
+Customer #1671998 arrived at 90min 34sec and joined the queue.
+Customer #1671999 arrived at 90min 34sec and joined the queue.
+Customer #1671890 left the window #1 at 90min 44sec and went away fully satisfied.
+Customer #1671892 left the queue at 90min 44sec and approached window #1.
+Customer #1672000 arrived at 91min 26sec and joined the queue.
+Customer #1672001 arrived at 91min 26sec and joined the queue.
+Customer #1671892 left the window #1 at 91min 50sec and went away fully satisfied.
+Customer #1671893 left the queue at 91min 50sec and approached window #1.
+Customer #1671891 left the window #0 at 92min 12sec and went away fully satisfied.
+Customer #1671894 left the queue at 92min 12sec and approached window #0.
+Customer #1672002 arrived at 92min 41sec and joined the queue.
+Customer #1672003 arrived at 92min 41sec and joined the queue.
+Customer #1672004 arrived at 92min 41sec and joined the queue.
+Customer #1671893 left the window #1 at 93min 26sec and went away fully satisfied.
+Customer #1671895 left the queue at 93min 26sec and approached window #1.
+Customer #1672005 arrived at 93min 37sec and joined the queue.
+Customer #1672006 arrived at 94min 32sec and joined the queue.
+Customer #1672007 arrived at 94min 32sec and joined the queue.
+Customer #1672008 arrived at 94min 32sec and joined the queue.
+Customer #1672009 arrived at 94min 32sec and joined the queue.
+Customer #1672010 arrived at 94min 32sec and joined the queue.
+Customer #1671894 left the window #0 at 95min 7sec and went away fully satisfied.
+Customer #1671896 left the queue at 95min 7sec and approached window #0.
+Customer #1671895 left the window #1 at 95min 43sec and went away fully satisfied.
+Customer #1671897 left the queue at 95min 43sec and approached window #1.
+Customer #1672011 arrived at 96min 11sec and joined the queue.
+Customer #1672012 arrived at 96min 11sec and joined the queue.
+Customer #1671896 left the window #0 at 96min 14sec and went away fully satisfied.
+Customer #1671898 left the queue at 96min 14sec and approached window #0.
+Customer #1671898 left the window #0 at 97min 9sec and went away fully satisfied.
+Customer #1671899 left the queue at 97min 9sec and approached window #0.
+Customer #1672013 arrived at 97min 42sec and joined the queue.
+Customer #1672014 arrived at 97min 42sec and joined the queue.
+Customer #1671899 left the window #0 at 98min 21sec and went away fully satisfied.
+Customer #1671900 left the queue at 98min 21sec and approached window #0.
+Customer #1671897 left the window #1 at 98min 24sec and went away fully satisfied.
+Customer #1671901 left the queue at 98min 24sec and approached window #1.
+Customer #1672015 arrived at 99min 0sec and joined the queue.
+Customer #1671900 left the window #0 at 100min 3sec and went away fully satisfied.
+Customer #1671902 left the queue at 100min 3sec and approached window #0.
+Customer #1672016 arrived at 100min 4sec and joined the queue.
+Customer #1672017 arrived at 101min 12sec and joined the queue.
+Customer #1672018 arrived at 101min 12sec and joined the queue.
+Customer #1672019 arrived at 101min 12sec and joined the queue.
+Customer #1671902 left the window #0 at 101min 15sec and went away fully satisfied.
+Customer #1671903 left the queue at 101min 15sec and approached window #0.
+Customer #1671901 left the window #1 at 101min 17sec and went away fully satisfied.
+Customer #1671904 left the queue at 101min 17sec and approached window #1.
+Customer #1672020 arrived at 102min 0sec and joined the queue.
+Customer #1672021 arrived at 102min 0sec and joined the queue.
+Customer #1672022 arrived at 102min 0sec and joined the queue.
+Customer #1671904 left the window #1 at 102min 21sec and went away fully satisfied.
+Customer #1671905 left the queue at 102min 21sec and approached window #1.
+Customer #1671903 left the window #0 at 103min 39sec and went away fully satisfied.
+Customer #1671906 left the queue at 103min 39sec and approached window #0.
+Customer #1672023 arrived at 103min 49sec and joined the queue.
+Customer #1672024 arrived at 104min 3sec and joined the queue.
+Customer #1672025 arrived at 104min 3sec and joined the queue.
+Customer #1671906 left the window #0 at 104min 38sec and went away fully satisfied.
+Customer #1671907 left the queue at 104min 38sec and approached window #0.
+Customer #1671905 left the window #1 at 104min 51sec and went away fully satisfied.
+Customer #1671908 left the queue at 104min 51sec and approached window #1.
+Customer #1672026 arrived at 105min 43sec and joined the queue.
+Customer #1672027 arrived at 106min 9sec and joined the queue.
+Customer #1672028 arrived at 106min 9sec and joined the queue.
+Customer #1671907 left the window #0 at 107min 4sec and went away fully satisfied.
+Customer #1671909 left the queue at 107min 4sec and approached window #0.
+Customer #1671908 left the window #1 at 107min 12sec and went away fully satisfied.
+Customer #1671910 left the queue at 107min 12sec and approached window #1.
+Customer #1672029 arrived at 107min 39sec and joined the queue.
+Customer #1672030 arrived at 107min 39sec and joined the queue.
+Customer #1672031 arrived at 108min 2sec and joined the queue.
+Customer #1672032 arrived at 108min 2sec and joined the queue.
+Customer #1672033 arrived at 108min 2sec and joined the queue.
+Customer #1672034 arrived at 108min 2sec and joined the queue.
+Customer #1672035 arrived at 109min 10sec and joined the queue.
+Customer #1671910 left the window #1 at 109min 32sec and went away fully satisfied.
+Customer #1671911 left the queue at 109min 32sec and approached window #1.
+Customer #1672036 arrived at 109min 33sec and joined the queue.
+Customer #1671909 left the window #0 at 109min 48sec and went away fully satisfied.
+Customer #1671912 left the queue at 109min 48sec and approached window #0.
+Customer #1671911 left the window #1 at 110min 48sec and went away fully satisfied.
+Customer #1671913 left the queue at 110min 48sec and approached window #1.
+Customer #1672037 arrived at 111min 4sec and joined the queue.
+Customer #1672038 arrived at 111min 9sec and joined the queue.
+Customer #1672039 arrived at 111min 9sec and joined the queue.
+Customer #1672040 arrived at 111min 9sec and joined the queue.
+Customer #1672041 arrived at 111min 9sec and joined the queue.
+Customer #1672042 arrived at 111min 9sec and joined the queue.
+Customer #1672043 arrived at 111min 9sec and joined the queue.
+Customer #1672044 arrived at 111min 22sec and joined the queue.
+Customer #1672045 arrived at 111min 22sec and joined the queue.
+Customer #1672046 arrived at 111min 22sec and joined the queue.
+Customer #1672047 arrived at 111min 22sec and joined the queue.
+Customer #1671912 left the window #0 at 111min 54sec and went away fully satisfied.
+Customer #1671914 left the queue at 111min 54sec and approached window #0.
+Customer #1671913 left the window #1 at 112min 11sec and went away fully satisfied.
+Customer #1671915 left the queue at 112min 11sec and approached window #1.
+Customer #1672048 arrived at 112min 23sec and joined the queue.
+Customer #1672049 arrived at 112min 23sec and joined the queue.
+Customer #1672050 arrived at 112min 23sec and joined the queue.
+Customer #1672051 arrived at 113min 35sec and joined the queue.
+Customer #1671915 left the window #1 at 114min 7sec and went away fully satisfied.
+Customer #1671916 left the queue at 114min 7sec and approached window #1.
+Customer #1672052 arrived at 114min 30sec and joined the queue.
+Customer #1672053 arrived at 114min 30sec and joined the queue.
+Customer #1671914 left the window #0 at 114min 52sec and went away fully satisfied.
+Customer #1671917 left the queue at 114min 52sec and approached window #0.
+Customer #1672054 arrived at 115min 34sec and joined the queue.
+Customer #1672055 arrived at 116min 16sec and joined the queue.
+Customer #1672056 arrived at 116min 16sec and joined the queue.
+Customer #1671917 left the window #0 at 116min 24sec and went away fully satisfied.
+Customer #1671918 left the queue at 116min 24sec and approached window #0.
+Customer #1672057 arrived at 116min 27sec and joined the queue.
+Customer #1672058 arrived at 116min 27sec and joined the queue.
+Customer #1672059 arrived at 116min 27sec and joined the queue.
+Customer #1671916 left the window #1 at 116min 33sec and went away fully satisfied.
+Customer #1671919 left the queue at 116min 33sec and approached window #1.
+Customer #1672060 arrived at 117min 18sec and joined the queue.
+Customer #1672061 arrived at 117min 18sec and joined the queue.
+Customer #1671919 left the window #1 at 117min 55sec and went away fully satisfied.
+Customer #1671920 left the queue at 117min 55sec and approached window #1.
+Customer #1672062 arrived at 118min 25sec and joined the queue.
+Customer #1672063 arrived at 118min 25sec and joined the queue.
+Customer #1672064 arrived at 119min 14sec and joined the queue.
+Customer #1672065 arrived at 119min 14sec and joined the queue.
+Customer #1672066 arrived at 119min 14sec and joined the queue.
+Customer #1671918 left the window #0 at 119min 21sec and went away fully satisfied.
+Customer #1671921 left the queue at 119min 21sec and approached window #0.
+Customer #1671920 left the window #1 at 119min 40sec and went away fully satisfied.
+Customer #1671922 left the queue at 119min 40sec and approached window #1.
+Customer #1672067 arrived at 119min 46sec and joined the queue.
+Customer #1672068 arrived at 119min 46sec and joined the queue.
+Customer #1672069 arrived at 119min 46sec and joined the queue.
+Customer #1672070 arrived at 120min 28sec and joined the queue.
+Customer #1672071 arrived at 120min 28sec and joined the queue.
+Customer #1672072 arrived at 120min 28sec and joined the queue.
+Customer #1671922 left the window #1 at 121min 38sec and went away fully satisfied.
+Customer #1671923 left the queue at 121min 38sec and approached window #1.
+Customer #1672073 arrived at 121min 59sec and joined the queue.
+Customer #1671921 left the window #0 at 122min 15sec and went away fully satisfied.
+Customer #1671924 left the queue at 122min 15sec and approached window #0.
+Customer #1672074 arrived at 123min 18sec and joined the queue.
+Customer #1672075 arrived at 123min 18sec and joined the queue.
+Customer #1671923 left the window #1 at 123min 54sec and went away fully satisfied.
+Customer #1671925 left the queue at 123min 54sec and approached window #1.
+Customer #1672076 arrived at 124min 30sec and joined the queue.
+Customer #1672077 arrived at 124min 30sec and joined the queue.
+Customer #1672078 arrived at 124min 30sec and joined the queue.
+Customer #1672079 arrived at 124min 30sec and joined the queue.
+Customer #1672080 arrived at 124min 30sec and joined the queue.
+Customer #1671924 left the window #0 at 124min 45sec and went away fully satisfied.
+Customer #1671926 left the queue at 124min 45sec and approached window #0.
+Customer #1672081 arrived at 125min 27sec and joined the queue.
+Customer #1672082 arrived at 125min 27sec and joined the queue.
+Customer #1672083 arrived at 125min 56sec and joined the queue.
+Customer #1672084 arrived at 125min 56sec and joined the queue.
+Customer #1672085 arrived at 125min 56sec and joined the queue.
+Customer #1671925 left the window #1 at 126min 16sec and went away fully satisfied.
+Customer #1671927 left the queue at 126min 16sec and approached window #1.
+Customer #1672086 arrived at 126min 29sec and joined the queue.
+Customer #1672087 arrived at 126min 29sec and joined the queue.
+Customer #1671926 left the window #0 at 126min 40sec and went away fully satisfied.
+Customer #1671928 left the queue at 126min 40sec and approached window #0.
+Customer #1672088 arrived at 127min 55sec and joined the queue.
+Customer #1672089 arrived at 127min 55sec and joined the queue.
+Customer #1672090 arrived at 127min 55sec and joined the queue.
+Customer #1672091 arrived at 128min 19sec and joined the queue.
+Customer #1671927 left the window #1 at 128min 25sec and went away fully satisfied.
+Customer #1671929 left the queue at 128min 25sec and approached window #1.
+Customer #1671928 left the window #0 at 129min 1sec and went away fully satisfied.
+Customer #1671930 left the queue at 129min 1sec and approached window #0.
+Customer #1672092 arrived at 129min 34sec and joined the queue.
+Customer #1672093 arrived at 129min 34sec and joined the queue.
+Customer #1672094 arrived at 130min 18sec and joined the queue.
+Customer #1672095 arrived at 130min 18sec and joined the queue.
+Customer #1671929 left the window #1 at 131min 6sec and went away fully satisfied.
+Customer #1671931 left the queue at 131min 6sec and approached window #1.
+Customer #1672096 arrived at 131min 9sec and joined the queue.
+Customer #1672097 arrived at 131min 9sec and joined the queue.
+Customer #1672098 arrived at 131min 50sec and joined the queue.
+Customer #1672099 arrived at 131min 50sec and joined the queue.
+Customer #1671930 left the window #0 at 132min 2sec and went away fully satisfied.
+Customer #1671932 left the queue at 132min 2sec and approached window #0.
+Customer #1671931 left the window #1 at 132min 4sec and went away fully satisfied.
+Customer #1671933 left the queue at 132min 4sec and approached window #1.
+Customer #1672100 arrived at 132min 29sec and joined the queue.
+Customer #1672101 arrived at 132min 29sec and joined the queue.
+Customer #1671932 left the window #0 at 133min 32sec and went away fully satisfied.
+Customer #1671934 left the queue at 133min 32sec and approached window #0.
+Customer #1671933 left the window #1 at 133min 36sec and went away fully satisfied.
+Customer #1671935 left the queue at 133min 36sec and approached window #1.
+Customer #1672102 arrived at 134min 13sec and joined the queue.
+Customer #1672103 arrived at 134min 23sec and joined the queue.
+Customer #1672104 arrived at 135min 53sec and joined the queue.
+Customer #1671934 left the window #0 at 135min 56sec and went away fully satisfied.
+Customer #1671936 left the queue at 135min 56sec and approached window #0.
+Customer #1671935 left the window #1 at 136min 14sec and went away fully satisfied.
+Customer #1671937 left the queue at 136min 14sec and approached window #1.
+Customer #1672105 arrived at 137min 11sec and joined the queue.
+Customer #1672106 arrived at 137min 11sec and joined the queue.
+Customer #1672107 arrived at 137min 11sec and joined the queue.
+Customer #1672108 arrived at 137min 11sec and joined the queue.
+Customer #1672109 arrived at 137min 40sec and joined the queue.
+Customer #1672110 arrived at 137min 40sec and joined the queue.
+Customer #1671936 left the window #0 at 138min 10sec and went away fully satisfied.
+Customer #1671938 left the queue at 138min 10sec and approached window #0.
+Customer #1671937 left the window #1 at 138min 42sec and went away fully satisfied.
+Customer #1671939 left the queue at 138min 42sec and approached window #1.
+Customer #1672111 arrived at 138min 48sec and joined the queue.
+Customer #1672112 arrived at 138min 48sec and joined the queue.
+Customer #1671938 left the window #0 at 139min 35sec and went away fully satisfied.
+Customer #1671940 left the queue at 139min 35sec and approached window #0.
+Customer #1672113 arrived at 140min 6sec and joined the queue.
+Customer #1672114 arrived at 140min 6sec and joined the queue.
+Customer #1672115 arrived at 140min 8sec and joined the queue.
+Customer #1671939 left the window #1 at 140min 36sec and went away fully satisfied.
+Customer #1671941 left the queue at 140min 36sec and approached window #1.
+Customer #1671940 left the window #0 at 140min 52sec and went away fully satisfied.
+Customer #1671942 left the queue at 140min 52sec and approached window #0.
+Customer #1672116 arrived at 141min 0sec and joined the queue.
+Customer #1672117 arrived at 141min 0sec and joined the queue.
+Customer #1672118 arrived at 141min 10sec and joined the queue.
+Customer #1672119 arrived at 141min 10sec and joined the queue.
+Customer #1672120 arrived at 141min 10sec and joined the queue.
+Customer #1672121 arrived at 142min 39sec and joined the queue.
+Customer #1671942 left the window #0 at 142min 42sec and went away fully satisfied.
+Customer #1671943 left the queue at 142min 42sec and approached window #0.
+Customer #1671941 left the window #1 at 142min 58sec and went away fully satisfied.
+Customer #1671944 left the queue at 142min 58sec and approached window #1.
+Customer #1672122 arrived at 144min 17sec and joined the queue.
+Customer #1671943 left the window #0 at 145min 18sec and went away fully satisfied.
+Customer #1671945 left the queue at 145min 18sec and approached window #0.
+Customer #1671944 left the window #1 at 145min 25sec and went away fully satisfied.
+Customer #1671946 left the queue at 145min 25sec and approached window #1.
+Customer #1672123 arrived at 145min 35sec and joined the queue.
+Customer #1672124 arrived at 145min 35sec and joined the queue.
+Customer #1672125 arrived at 147min 20sec and joined the queue.
+Customer #1671946 left the window #1 at 147min 56sec and went away fully satisfied.
+Customer #1671947 left the queue at 147min 56sec and approached window #1.
+Customer #1671945 left the window #0 at 148min 9sec and went away fully satisfied.
+Customer #1671948 left the queue at 148min 9sec and approached window #0.
+Customer #1671947 left the window #1 at 148min 53sec and went away fully satisfied.
+Customer #1671949 left the queue at 148min 53sec and approached window #1.
+Customer #1672126 arrived at 149min 5sec and joined the queue.
+Customer #1672127 arrived at 149min 5sec and joined the queue.
+Customer #1672128 arrived at 149min 5sec and joined the queue.
+Customer #1671949 left the window #1 at 149min 54sec and went away fully satisfied.
+Customer #1671950 left the queue at 149min 54sec and approached window #1.
+Customer #1672129 arrived at 150min 10sec and joined the queue.
+Customer #1672130 arrived at 150min 10sec and joined the queue.
+Customer #1671948 left the window #0 at 150min 42sec and went away fully satisfied.
+Customer #1671951 left the queue at 150min 42sec and approached window #0.
+Customer #1672131 arrived at 151min 17sec and joined the queue.
+Customer #1671950 left the window #1 at 151min 55sec and went away fully satisfied.
+Customer #1671952 left the queue at 151min 55sec and approached window #1.
+Customer #1672132 arrived at 152min 47sec and joined the queue.
+Customer #1672133 arrived at 152min 47sec and joined the queue.
+Customer #1671951 left the window #0 at 152min 52sec and went away fully satisfied.
+Customer #1671953 left the queue at 152min 52sec and approached window #0.
+Customer #1672134 arrived at 153min 44sec and joined the queue.
+Customer #1672135 arrived at 153min 44sec and joined the queue.
+Customer #1671952 left the window #1 at 154min 8sec and went away fully satisfied.
+Customer #1671954 left the queue at 154min 8sec and approached window #1.
+Customer #1672136 arrived at 154min 52sec and joined the queue.
+Customer #1671953 left the window #0 at 155min 10sec and went away fully satisfied.
+Customer #1671955 left the queue at 155min 10sec and approached window #0.
+Customer #1672137 arrived at 155min 31sec and joined the queue.
+Customer #1672138 arrived at 155min 31sec and joined the queue.
+Customer #1672139 arrived at 155min 31sec and joined the queue.
+Customer #1671954 left the window #1 at 156min 4sec and went away fully satisfied.
+Customer #1671956 left the queue at 156min 4sec and approached window #1.
+Customer #1672140 arrived at 156min 26sec and joined the queue.
+Customer #1671955 left the window #0 at 156min 33sec and went away fully satisfied.
+Customer #1671957 left the queue at 156min 33sec and approached window #0.
+Customer #1671956 left the window #1 at 157min 33sec and went away fully satisfied.
+Customer #1671958 left the queue at 157min 33sec and approached window #1.
+Customer #1672141 arrived at 157min 56sec and joined the queue.
+Customer #1672142 arrived at 157min 56sec and joined the queue.
+Customer #1672143 arrived at 157min 58sec and joined the queue.
+Customer #1672144 arrived at 157min 58sec and joined the queue.
+Customer #1671957 left the window #0 at 158min 15sec and went away fully satisfied.
+Customer #1671959 left the queue at 158min 15sec and approached window #0.
+Customer #1672145 arrived at 158min 39sec and joined the queue.
+Customer #1672146 arrived at 159min 0sec and joined the queue.
+Customer #1672147 arrived at 159min 0sec and joined the queue.
+Customer #1671958 left the window #1 at 159min 49sec and went away fully satisfied.
+Customer #1671960 left the queue at 159min 49sec and approached window #1.
+Customer #1672148 arrived at 159min 52sec and joined the queue.
+Customer #1672149 arrived at 159min 52sec and joined the queue.
+Customer #1672150 arrived at 159min 52sec and joined the queue.
+Customer #1671959 left the window #0 at 160min 1sec and went away fully satisfied.
+Customer #1671961 left the queue at 160min 1sec and approached window #0.
+Customer #1671960 left the window #1 at 161min 6sec and went away fully satisfied.
+Customer #1671962 left the queue at 161min 6sec and approached window #1.
+Customer #1672151 arrived at 161min 23sec and joined the queue.
+Customer #1671961 left the window #0 at 162min 21sec and went away fully satisfied.
+Customer #1671963 left the queue at 162min 21sec and approached window #0.
+Customer #1672152 arrived at 162min 30sec and joined the queue.
+Customer #1672153 arrived at 162min 30sec and joined the queue.
+Customer #1671963 left the window #0 at 163min 21sec and went away fully satisfied.
+Customer #1671964 left the queue at 163min 21sec and approached window #0.
+Customer #1671962 left the window #1 at 163min 43sec and went away fully satisfied.
+Customer #1671965 left the queue at 163min 43sec and approached window #1.
+Customer #1672154 arrived at 164min 16sec and joined the queue.
+Customer #1672155 arrived at 164min 16sec and joined the queue.
+Customer #1672156 arrived at 164min 16sec and joined the queue.
+Customer #1672157 arrived at 164min 26sec and joined the queue.
+Customer #1672158 arrived at 165min 52sec and joined the queue.
+Customer #1672159 arrived at 165min 52sec and joined the queue.
+Customer #1671964 left the window #0 at 166min 22sec and went away fully satisfied.
+Customer #1671966 left the queue at 166min 22sec and approached window #0.
+Customer #1671965 left the window #1 at 166min 24sec and went away fully satisfied.
+Customer #1671967 left the queue at 166min 24sec and approached window #1.
+Customer #1672160 arrived at 167min 36sec and joined the queue.
+Customer #1671966 left the window #0 at 168min 41sec and went away fully satisfied.
+Customer #1671968 left the queue at 168min 41sec and approached window #0.
+Customer #1671967 left the window #1 at 169min 6sec and went away fully satisfied.
+Customer #1671969 left the queue at 169min 6sec and approached window #1.
+Customer #1672161 arrived at 169min 24sec and joined the queue.
+Customer #1672162 arrived at 169min 24sec and joined the queue.
+Customer #1672163 arrived at 169min 24sec and joined the queue.
+Customer #1671968 left the window #0 at 169min 38sec and went away fully satisfied.
+Customer #1671970 left the queue at 169min 38sec and approached window #0.
+Customer #1672164 arrived at 170min 31sec and joined the queue.
+Customer #1671969 left the window #1 at 170min 32sec and went away fully satisfied.
+Customer #1671971 left the queue at 170min 32sec and approached window #1.
+Customer #1671970 left the window #0 at 171min 59sec and went away fully satisfied.
+Customer #1671972 left the queue at 171min 59sec and approached window #0.
+Customer #1672165 arrived at 172min 1sec and joined the queue.
+Customer #1672166 arrived at 172min 1sec and joined the queue.
+Customer #1671971 left the window #1 at 172min 33sec and went away fully satisfied.
+Customer #1671973 left the queue at 172min 33sec and approached window #1.
+Customer #1671972 left the window #0 at 173min 12sec and went away fully satisfied.
+Customer #1671974 left the queue at 173min 12sec and approached window #0.
+Customer #1672167 arrived at 173min 32sec and joined the queue.
+Customer #1672168 arrived at 173min 32sec and joined the queue.
+Customer #1671973 left the window #1 at 173min 44sec and went away fully satisfied.
+Customer #1671975 left the queue at 173min 44sec and approached window #1.
+Customer #1671974 left the window #0 at 174min 18sec and went away fully satisfied.
+Customer #1671976 left the queue at 174min 18sec and approached window #0.
+Customer #1672169 arrived at 174min 27sec and joined the queue.
+Customer #1672170 arrived at 174min 27sec and joined the queue.
+Customer #1672171 arrived at 174min 27sec and joined the queue.
+Customer #1672172 arrived at 176min 2sec and joined the queue.
+Customer #1672173 arrived at 176min 2sec and joined the queue.
+Customer #1672174 arrived at 176min 2sec and joined the queue.
+Customer #1671975 left the window #1 at 176min 13sec and went away fully satisfied.
+Customer #1671977 left the queue at 176min 13sec and approached window #1.
+Customer #1671976 left the window #0 at 176min 54sec and went away fully satisfied.
+Customer #1671978 left the queue at 176min 54sec and approached window #0.
+Customer #1672175 arrived at 177min 0sec and joined the queue.
+Customer #1672176 arrived at 177min 0sec and joined the queue.
+Customer #1672177 arrived at 177min 27sec and joined the queue.
+Customer #1672178 arrived at 177min 27sec and joined the queue.
+Customer #1672179 arrived at 178min 17sec and joined the queue.
+Customer #1672180 arrived at 178min 17sec and joined the queue.
+Customer #1672181 arrived at 178min 17sec and joined the queue.
+Customer #1671977 left the window #1 at 179min 2sec and went away fully satisfied.
+Customer #1671979 left the queue at 179min 2sec and approached window #1.
+Customer #1672182 arrived at 179min 18sec and joined the queue.
+Customer #1672183 arrived at 179min 18sec and joined the queue.
+Customer #1672184 arrived at 179min 18sec and joined the queue.
+Customer #1672185 arrived at 179min 18sec and joined the queue.
+Customer #1672186 arrived at 179min 18sec and joined the queue.
+Customer #1672187 arrived at 179min 18sec and joined the queue.
+Customer #1671978 left the window #0 at 179min 24sec and went away fully satisfied.
+Customer #1671980 left the queue at 179min 24sec and approached window #0.
+Customer #1672188 arrived at 180min 14sec and joined the queue.
+Customer #1672189 arrived at 180min 14sec and joined the queue.
+Customer #1671980 left the window #0 at 180min 25sec and went away fully satisfied.
+Customer #1671981 left the queue at 180min 25sec and approached window #0.
+Customer #1671979 left the window #1 at 181min 31sec and went away fully satisfied.
+Customer #1671982 left the queue at 181min 31sec and approached window #1.
+Customer #1672190 arrived at 181min 58sec and joined the queue.
+Customer #1672191 arrived at 181min 58sec and joined the queue.
+Customer #1671981 left the window #0 at 182min 27sec and went away fully satisfied.
+Customer #1671983 left the queue at 182min 27sec and approached window #0.
+Customer #1672192 arrived at 182min 35sec and joined the queue.
+Customer #1671982 left the window #1 at 184min 0sec and went away fully satisfied.
+Customer #1671984 left the queue at 184min 0sec and approached window #1.
+Customer #1672193 arrived at 184min 22sec and joined the queue.
+Customer #1672194 arrived at 184min 22sec and joined the queue.
+Customer #1671983 left the window #0 at 184min 28sec and went away fully satisfied.
+Customer #1671985 left the queue at 184min 28sec and approached window #0.
+Customer #1671984 left the window #1 at 185min 16sec and went away fully satisfied.
+Customer #1671986 left the queue at 185min 16sec and approached window #1.
+Customer #1672195 arrived at 186min 12sec and joined the queue.
+Customer #1671986 left the window #1 at 186min 36sec and went away fully satisfied.
+Customer #1671987 left the queue at 186min 36sec and approached window #1.
+Customer #1672196 arrived at 187min 7sec and joined the queue.
+Customer #1671985 left the window #0 at 187min 8sec and went away fully satisfied.
+Customer #1671988 left the queue at 187min 8sec and approached window #0.
+Customer #1672197 arrived at 188min 23sec and joined the queue.
+Customer #1672198 arrived at 188min 23sec and joined the queue.
+Customer #1672199 arrived at 188min 51sec and joined the queue.
+Customer #1672200 arrived at 188min 51sec and joined the queue.
+Customer #1672201 arrived at 189min 12sec and joined the queue.
+Customer #1671987 left the window #1 at 189min 35sec and went away fully satisfied.
+Customer #1671989 left the queue at 189min 35sec and approached window #1.
+Customer #1672202 arrived at 189min 39sec and joined the queue.
+Customer #1672203 arrived at 189min 39sec and joined the queue.
+Customer #1672204 arrived at 189min 39sec and joined the queue.
+Customer #1672205 arrived at 189min 45sec and joined the queue.
+Customer #1672206 arrived at 189min 45sec and joined the queue.
+Customer #1671988 left the window #0 at 189min 53sec and went away fully satisfied.
+Customer #1671990 left the queue at 189min 53sec and approached window #0.
+Customer #1671989 left the window #1 at 190min 48sec and went away fully satisfied.
+Customer #1671991 left the queue at 190min 48sec and approached window #1.
+Customer #1672207 arrived at 191min 0sec and joined the queue.
+Customer #1672208 arrived at 191min 0sec and joined the queue.
+Customer #1672209 arrived at 191min 0sec and joined the queue.
+Customer #1671990 left the window #0 at 191min 26sec and went away fully satisfied.
+Customer #1671992 left the queue at 191min 26sec and approached window #0.
+Customer #1672210 arrived at 192min 5sec and joined the queue.
+Customer #1671992 left the window #0 at 192min 36sec and went away fully satisfied.
+Customer #1671993 left the queue at 192min 36sec and approached window #0.
+Customer #1671991 left the window #1 at 193min 9sec and went away fully satisfied.
+Customer #1671994 left the queue at 193min 9sec and approached window #1.
+Customer #1672211 arrived at 193min 41sec and joined the queue.
+Customer #1672212 arrived at 193min 41sec and joined the queue.
+Customer #1672213 arrived at 194min 52sec and joined the queue.
+Customer #1672214 arrived at 194min 52sec and joined the queue.
+Customer #1671994 left the window #1 at 195min 29sec and went away fully satisfied.
+Customer #1671995 left the queue at 195min 29sec and approached window #1.
+Customer #1671993 left the window #0 at 195min 31sec and went away fully satisfied.
+Customer #1671996 left the queue at 195min 31sec and approached window #0.
+Customer #1672215 arrived at 196min 30sec and joined the queue.
+Customer #1672216 arrived at 196min 30sec and joined the queue.
+Customer #1671996 left the window #0 at 196min 36sec and went away fully satisfied.
+Customer #1671997 left the queue at 196min 36sec and approached window #0.
+Customer #1671995 left the window #1 at 197min 4sec and went away fully satisfied.
+Customer #1671998 left the queue at 197min 4sec and approached window #1.
+Customer #1672217 arrived at 197min 19sec and joined the queue.
+Customer #1672218 arrived at 197min 19sec and joined the queue.
+Customer #1671998 left the window #1 at 198min 58sec and went away fully satisfied.
+Customer #1671999 left the queue at 198min 58sec and approached window #1.
+Customer #1672219 arrived at 199min 3sec and joined the queue.
+Customer #1672220 arrived at 199min 3sec and joined the queue.
+Customer #1671997 left the window #0 at 199min 36sec and went away fully satisfied.
+Customer #1672000 left the queue at 199min 36sec and approached window #0.
+Customer #1672221 arrived at 200min 5sec and joined the queue.
+Customer #1672222 arrived at 201min 39sec and joined the queue.
+Customer #1672223 arrived at 201min 39sec and joined the queue.
+Customer #1672224 arrived at 201min 39sec and joined the queue.
+Customer #1672225 arrived at 201min 39sec and joined the queue.
+Customer #1672000 left the window #0 at 201min 41sec and went away fully satisfied.
+Customer #1672001 left the queue at 201min 41sec and approached window #0.
+Customer #1671999 left the window #1 at 201min 44sec and went away fully satisfied.
+Customer #1672002 left the queue at 201min 44sec and approached window #1.
+Customer #1672226 arrived at 201min 53sec and joined the queue.
+Customer #1672227 arrived at 201min 53sec and joined the queue.
+Customer #1672228 arrived at 201min 53sec and joined the queue.
+Customer #1672229 arrived at 201min 53sec and joined the queue.
+Customer #1672230 arrived at 202min 46sec and joined the queue.
+Customer #1672231 arrived at 202min 46sec and joined the queue.
+Customer #1672232 arrived at 202min 46sec and joined the queue.
+Customer #1672001 left the window #0 at 203min 18sec and went away fully satisfied.
+Customer #1672003 left the queue at 203min 18sec and approached window #0.
+Customer #1672233 arrived at 204min 28sec and joined the queue.
+Customer #1672234 arrived at 204min 28sec and joined the queue.
+Customer #1672002 left the window #1 at 204min 41sec and went away fully satisfied.
+Customer #1672004 left the queue at 204min 41sec and approached window #1.
+Customer #1672003 left the window #0 at 204min 53sec and went away fully satisfied.
+Customer #1672005 left the queue at 204min 53sec and approached window #0.
+Customer #1672235 arrived at 205min 31sec and joined the queue.
+Customer #1672236 arrived at 205min 31sec and joined the queue.
+Customer #1672237 arrived at 205min 31sec and joined the queue.
+Customer #1672238 arrived at 205min 31sec and joined the queue.
+Customer #1672004 left the window #1 at 206min 30sec and went away fully satisfied.
+Customer #1672006 left the queue at 206min 30sec and approached window #1.
+Customer #1672239 arrived at 206min 33sec and joined the queue.
+Customer #1672240 arrived at 206min 33sec and joined the queue.
+Customer #1672005 left the window #0 at 207min 46sec and went away fully satisfied.
+Customer #1672007 left the queue at 207min 46sec and approached window #0.
+Customer #1672241 arrived at 207min 56sec and joined the queue.
+Customer #1672242 arrived at 207min 56sec and joined the queue.
+Customer #1672243 arrived at 207min 56sec and joined the queue.
+Customer #1672244 arrived at 207min 56sec and joined the queue.
+Customer #1672245 arrived at 207min 56sec and joined the queue.
+Customer #1672246 arrived at 207min 56sec and joined the queue.
+Customer #1672006 left the window #1 at 208min 12sec and went away fully satisfied.
+Customer #1672008 left the queue at 208min 12sec and approached window #1.
+Customer #1672247 arrived at 208min 54sec and joined the queue.
+Customer #1672248 arrived at 208min 54sec and joined the queue.
+Customer #1672007 left the window #0 at 210min 21sec and went away fully satisfied.
+Customer #1672009 left the queue at 210min 21sec and approached window #0.
+Customer #1672249 arrived at 210min 24sec and joined the queue.
+Customer #1672250 arrived at 210min 24sec and joined the queue.
+Customer #1672008 left the window #1 at 211min 12sec and went away fully satisfied.
+Customer #1672010 left the queue at 211min 12sec and approached window #1.
+Customer #1672009 left the window #0 at 211min 58sec and went away fully satisfied.
+Customer #1672011 left the queue at 211min 58sec and approached window #0.
+Customer #1672251 arrived at 212min 3sec and joined the queue.
+Customer #1672252 arrived at 212min 3sec and joined the queue.
+Customer #1672253 arrived at 212min 3sec and joined the queue.
+Customer #1672254 arrived at 212min 29sec and joined the queue.
+Customer #1672255 arrived at 212min 43sec and joined the queue.
+Customer #1672256 arrived at 212min 43sec and joined the queue.
+Customer #1672011 left the window #0 at 213min 55sec and went away fully satisfied.
+Customer #1672012 left the queue at 213min 55sec and approached window #0.
+Customer #1672010 left the window #1 at 214min 5sec and went away fully satisfied.
+Customer #1672013 left the queue at 214min 5sec and approached window #1.
+Customer #1672257 arrived at 214min 13sec and joined the queue.
+Customer #1672258 arrived at 214min 53sec and joined the queue.
+Customer #1672012 left the window #0 at 215min 14sec and went away fully satisfied.
+Customer #1672014 left the queue at 215min 14sec and approached window #0.
+Customer #1672013 left the window #1 at 215min 38sec and went away fully satisfied.
+Customer #1672015 left the queue at 215min 38sec and approached window #1.
+Customer #1672259 arrived at 215min 43sec and joined the queue.
+Customer #1672015 left the window #1 at 216min 42sec and went away fully satisfied.
+Customer #1672260 arrived at 216min 42sec and joined the queue.
+Customer #1672261 arrived at 216min 42sec and joined the queue.
+Customer #1672016 left the queue at 216min 42sec and approached window #1.
+Customer #1672262 arrived at 217min 13sec and joined the queue.
+Customer #1672263 arrived at 217min 13sec and joined the queue.
+Customer #1672016 left the window #1 at 217min 42sec and went away fully satisfied.
+Customer #1672017 left the queue at 217min 42sec and approached window #1.
+Customer #1672014 left the window #0 at 217min 55sec and went away fully satisfied.
+Customer #1672018 left the queue at 217min 55sec and approached window #0.
+Customer #1672264 arrived at 218min 52sec and joined the queue.
+Customer #1672265 arrived at 218min 52sec and joined the queue.
+Customer #1672266 arrived at 219min 46sec and joined the queue.
+Customer #1672267 arrived at 219min 46sec and joined the queue.
+Customer #1672017 left the window #1 at 220min 6sec and went away fully satisfied.
+Customer #1672019 left the queue at 220min 6sec and approached window #1.
+Customer #1672018 left the window #0 at 220min 31sec and went away fully satisfied.
+Customer #1672020 left the queue at 220min 31sec and approached window #0.
+Customer #1672268 arrived at 220min 36sec and joined the queue.
+Customer #1672269 arrived at 220min 36sec and joined the queue.
+Customer #1672270 arrived at 220min 36sec and joined the queue.
+Customer #1672271 arrived at 221min 21sec and joined the queue.
+Customer #1672272 arrived at 221min 21sec and joined the queue.
+Customer #1672273 arrived at 221min 21sec and joined the queue.
+Customer #1672274 arrived at 221min 21sec and joined the queue.
+Customer #1672275 arrived at 221min 21sec and joined the queue.
+Customer #1672276 arrived at 221min 21sec and joined the queue.
+Customer #1672277 arrived at 221min 59sec and joined the queue.
+Customer #1672019 left the window #1 at 222min 50sec and went away fully satisfied.
+Customer #1672021 left the queue at 222min 50sec and approached window #1.
+Customer #1672020 left the window #0 at 223min 19sec and went away fully satisfied.
+Customer #1672022 left the queue at 223min 19sec and approached window #0.
+Customer #1672278 arrived at 223min 30sec and joined the queue.
+Customer #1672279 arrived at 223min 30sec and joined the queue.
+Customer #1672280 arrived at 223min 30sec and joined the queue.
+Customer #1672281 arrived at 224min 10sec and joined the queue.
+Customer #1672282 arrived at 224min 31sec and joined the queue.
+Customer #1672283 arrived at 224min 31sec and joined the queue.
+Customer #1672022 left the window #0 at 225min 0sec and went away fully satisfied.
+Customer #1672023 left the queue at 225min 0sec and approached window #0.
+Customer #1672284 arrived at 225min 19sec and joined the queue.
+Customer #1672285 arrived at 225min 19sec and joined the queue.
+Customer #1672021 left the window #1 at 225min 24sec and went away fully satisfied.
+Customer #1672024 left the queue at 225min 24sec and approached window #1.
+Customer #1672023 left the window #0 at 226min 14sec and went away fully satisfied.
+Customer #1672025 left the queue at 226min 14sec and approached window #0.
+Customer #1672024 left the window #1 at 226min 23sec and went away fully satisfied.
+Customer #1672026 left the queue at 226min 23sec and approached window #1.
+Customer #1672286 arrived at 227min 2sec and joined the queue.
+Customer #1672287 arrived at 227min 2sec and joined the queue.
+Customer #1672288 arrived at 227min 2sec and joined the queue.
+Customer #1672289 arrived at 227min 2sec and joined the queue.
+Customer #1672026 left the window #1 at 227min 32sec and went away fully satisfied.
+Customer #1672027 left the queue at 227min 32sec and approached window #1.
+Customer #1672290 arrived at 228min 5sec and joined the queue.
+Customer #1672025 left the window #0 at 228min 5sec and went away fully satisfied.
+Customer #1672028 left the queue at 228min 5sec and approached window #0.
+Customer #1672291 arrived at 228min 8sec and joined the queue.
+Customer #1672292 arrived at 228min 8sec and joined the queue.
+Customer #1672293 arrived at 229min 8sec and joined the queue.
+Customer #1672294 arrived at 230min 1sec and joined the queue.
+Customer #1672028 left the window #0 at 230min 25sec and went away fully satisfied.
+Customer #1672029 left the queue at 230min 25sec and approached window #0.
+Customer #1672027 left the window #1 at 230min 33sec and went away fully satisfied.
+Customer #1672030 left the queue at 230min 33sec and approached window #1.
+Customer #1672295 arrived at 231min 0sec and joined the queue.
+Customer #1672296 arrived at 231min 0sec and joined the queue.
+Customer #1672297 arrived at 231min 0sec and joined the queue.
+Customer #1672298 arrived at 231min 0sec and joined the queue.
+Customer #1672030 left the window #1 at 231min 28sec and went away fully satisfied.
+Customer #1672031 left the queue at 231min 28sec and approached window #1.
+Customer #1672299 arrived at 231min 33sec and joined the queue.
+Customer #1672300 arrived at 231min 33sec and joined the queue.
+Customer #1672029 left the window #0 at 231min 49sec and went away fully satisfied.
+Customer #1672032 left the queue at 231min 49sec and approached window #0.
+Customer #1672301 arrived at 232min 44sec and joined the queue.
+Customer #1672302 arrived at 232min 44sec and joined the queue.
+Customer #1672303 arrived at 232min 44sec and joined the queue.
+Customer #1672304 arrived at 233min 38sec and joined the queue.
+Customer #1672305 arrived at 233min 38sec and joined the queue.
+Customer #1672032 left the window #0 at 233min 44sec and went away fully satisfied.
+Customer #1672033 left the queue at 233min 44sec and approached window #0.
+Customer #1672031 left the window #1 at 233min 46sec and went away fully satisfied.
+Customer #1672034 left the queue at 233min 46sec and approached window #1.
+Customer #1672306 arrived at 234min 1sec and joined the queue.
+Customer #1672307 arrived at 234min 1sec and joined the queue.
+Customer #1672308 arrived at 234min 1sec and joined the queue.
+Customer #1672309 arrived at 234min 49sec and joined the queue.
+Customer #1672310 arrived at 234min 49sec and joined the queue.
+Customer #1672033 left the window #0 at 235min 11sec and went away fully satisfied.
+Customer #1672035 left the queue at 235min 11sec and approached window #0.
+Customer #1672034 left the window #1 at 235min 35sec and went away fully satisfied.
+Customer #1672036 left the queue at 235min 35sec and approached window #1.
+Customer #1672035 left the window #0 at 236min 23sec and went away fully satisfied.
+Customer #1672037 left the queue at 236min 23sec and approached window #0.
+Customer #1672311 arrived at 236min 33sec and joined the queue.
+Customer #1672312 arrived at 237min 44sec and joined the queue.
+Customer #1672313 arrived at 237min 44sec and joined the queue.
+Customer #1672037 left the window #0 at 238min 33sec and went away fully satisfied.
+Customer #1672038 left the queue at 238min 33sec and approached window #0.
+Customer #1672036 left the window #1 at 238min 40sec and went away fully satisfied.
+Customer #1672039 left the queue at 238min 40sec and approached window #1.
+Customer #1672314 arrived at 239min 12sec and joined the queue.
+Customer #1672315 arrived at 239min 12sec and joined the queue.
+Customer #1672316 arrived at 239min 12sec and joined the queue.
+Customer #1672317 arrived at 239min 12sec and joined the queue.
+Customer #1672318 arrived at 239min 26sec and joined the queue.
+Customer #1672038 left the window #0 at 240min 8sec and went away fully satisfied.
+Customer #1672040 left the queue at 240min 8sec and approached window #0.
+Customer #1672319 arrived at 240min 35sec and joined the queue.
+Customer #1672320 arrived at 240min 35sec and joined the queue.
+Customer #1672321 arrived at 241min 5sec and joined the queue.
+Customer #1672322 arrived at 241min 5sec and joined the queue.
+Customer #1672039 left the window #1 at 241min 13sec and went away fully satisfied.
+Customer #1672041 left the queue at 241min 13sec and approached window #1.
+Customer #1672040 left the window #0 at 242min 9sec and went away fully satisfied.
+Customer #1672042 left the queue at 242min 9sec and approached window #0.
+Customer #1672323 arrived at 242min 32sec and joined the queue.
+Customer #1672324 arrived at 242min 32sec and joined the queue.
+Customer #1672041 left the window #1 at 243min 5sec and went away fully satisfied.
+Customer #1672043 left the queue at 243min 5sec and approached window #1.
+Customer #1672325 arrived at 243min 42sec and joined the queue.
+Customer #1672042 left the window #0 at 244min 51sec and went away fully satisfied.
+Customer #1672044 left the queue at 244min 51sec and approached window #0.
+Customer #1672043 left the window #1 at 245min 17sec and went away fully satisfied.
+Customer #1672045 left the queue at 245min 17sec and approached window #1.
+Customer #1672326 arrived at 245min 18sec and joined the queue.
+Customer #1672327 arrived at 245min 18sec and joined the queue.
+Customer #1672328 arrived at 246min 0sec and joined the queue.
+Customer #1672329 arrived at 246min 20sec and joined the queue.
+Customer #1672044 left the window #0 at 246min 26sec and went away fully satisfied.
+Customer #1672046 left the queue at 246min 26sec and approached window #0.
+Customer #1672330 arrived at 247min 3sec and joined the queue.
+Customer #1672331 arrived at 247min 3sec and joined the queue.
+Customer #1672332 arrived at 247min 3sec and joined the queue.
+Customer #1672333 arrived at 247min 12sec and joined the queue.
+Customer #1672334 arrived at 247min 12sec and joined the queue.
+Customer #1672045 left the window #1 at 247min 50sec and went away fully satisfied.
+Customer #1672047 left the queue at 247min 50sec and approached window #1.
+Customer #1672046 left the window #0 at 248min 3sec and went away fully satisfied.
+Customer #1672048 left the queue at 248min 3sec and approached window #0.
+Customer #1672335 arrived at 248min 26sec and joined the queue.
+Customer #1672336 arrived at 248min 26sec and joined the queue.
+Customer #1672337 arrived at 248min 26sec and joined the queue.
+Customer #1672047 left the window #1 at 249min 0sec and went away fully satisfied.
+Customer #1672049 left the queue at 249min 0sec and approached window #1.
+Customer #1672048 left the window #0 at 249min 35sec and went away fully satisfied.
+Customer #1672050 left the queue at 249min 35sec and approached window #0.
+Customer #1672338 arrived at 249min 38sec and joined the queue.
+Customer #1672339 arrived at 249min 38sec and joined the queue.
+Customer #1672050 left the window #0 at 251min 9sec and went away fully satisfied.
+Customer #1672051 left the queue at 251min 9sec and approached window #0.
+Customer #1672340 arrived at 251min 13sec and joined the queue.
+Customer #1672341 arrived at 251min 13sec and joined the queue.
+Customer #1672342 arrived at 251min 13sec and joined the queue.
+Customer #1672343 arrived at 251min 13sec and joined the queue.
+Customer #1672049 left the window #1 at 251min 55sec and went away fully satisfied.
+Customer #1672052 left the queue at 251min 55sec and approached window #1.
+Customer #1672344 arrived at 252min 19sec and joined the queue.
+Customer #1672051 left the window #0 at 252min 47sec and went away fully satisfied.
+Customer #1672053 left the queue at 252min 47sec and approached window #0.
+Customer #1672345 arrived at 252min 50sec and joined the queue.
+Customer #1672346 arrived at 252min 50sec and joined the queue.
+Customer #1672347 arrived at 252min 50sec and joined the queue.
+Customer #1672348 arrived at 252min 50sec and joined the queue.
+Customer #1672349 arrived at 252min 50sec and joined the queue.
+Customer #1672350 arrived at 254min 10sec and joined the queue.
+Customer #1672351 arrived at 254min 10sec and joined the queue.
+Customer #1672352 arrived at 254min 10sec and joined the queue.
+Customer #1672353 arrived at 254min 10sec and joined the queue.
+Customer #1672354 arrived at 254min 10sec and joined the queue.
+Customer #1672355 arrived at 254min 36sec and joined the queue.
+Customer #1672052 left the window #1 at 254min 46sec and went away fully satisfied.
+Customer #1672054 left the queue at 254min 46sec and approached window #1.
+Customer #1672053 left the window #0 at 254min 49sec and went away fully satisfied.
+Customer #1672055 left the queue at 254min 49sec and approached window #0.
+Customer #1672356 arrived at 255min 52sec and joined the queue.
+Customer #1672357 arrived at 255min 52sec and joined the queue.
+Customer #1672055 left the window #0 at 255min 56sec and went away fully satisfied.
+Customer #1672056 left the queue at 255min 56sec and approached window #0.
+Customer #1672054 left the window #1 at 256min 35sec and went away fully satisfied.
+Customer #1672057 left the queue at 256min 35sec and approached window #1.
+Customer #1672056 left the window #0 at 257min 6sec and went away fully satisfied.
+Customer #1672058 left the queue at 257min 6sec and approached window #0.
+Customer #1672358 arrived at 257min 21sec and joined the queue.
+Customer #1672359 arrived at 257min 21sec and joined the queue.
+Customer #1672360 arrived at 257min 21sec and joined the queue.
+Customer #1672058 left the window #0 at 259min 0sec and went away fully satisfied.
+Customer #1672059 left the queue at 259min 0sec and approached window #0.
+Customer #1672361 arrived at 259min 10sec and joined the queue.
+Customer #1672362 arrived at 259min 10sec and joined the queue.
+Customer #1672057 left the window #1 at 259min 20sec and went away fully satisfied.
+Customer #1672060 left the queue at 259min 20sec and approached window #1.
+Customer #1672363 arrived at 260min 45sec and joined the queue.
+Customer #1672364 arrived at 260min 45sec and joined the queue.
+Customer #1672365 arrived at 260min 45sec and joined the queue.
+Customer #1672060 left the window #1 at 260min 54sec and went away fully satisfied.
+Customer #1672061 left the queue at 260min 54sec and approached window #1.
+Customer #1672059 left the window #0 at 260min 58sec and went away fully satisfied.
+Customer #1672062 left the queue at 260min 58sec and approached window #0.
+Customer #1672061 left the window #1 at 262min 23sec and went away fully satisfied.
+Customer #1672063 left the queue at 262min 23sec and approached window #1.
+Customer #1672366 arrived at 262min 34sec and joined the queue.
+Customer #1672062 left the window #0 at 262min 52sec and went away fully satisfied.
+Customer #1672064 left the queue at 262min 52sec and approached window #0.
+Customer #1672367 arrived at 263min 30sec and joined the queue.
+Customer #1672064 left the window #0 at 263min 48sec and went away fully satisfied.
+Customer #1672065 left the queue at 263min 48sec and approached window #0.
+Customer #1672368 arrived at 264min 11sec and joined the queue.
+Customer #1672369 arrived at 264min 11sec and joined the queue.
+Customer #1672370 arrived at 264min 14sec and joined the queue.
+Customer #1672371 arrived at 264min 14sec and joined the queue.
+Customer #1672372 arrived at 265min 5sec and joined the queue.
+Customer #1672373 arrived at 265min 5sec and joined the queue.
+Customer #1672374 arrived at 265min 5sec and joined the queue.
+Customer #1672063 left the window #1 at 265min 9sec and went away fully satisfied.
+Customer #1672066 left the queue at 265min 9sec and approached window #1.
+Customer #1672375 arrived at 265min 15sec and joined the queue.
+Customer #1672376 arrived at 265min 15sec and joined the queue.
+Customer #1672065 left the window #0 at 265min 40sec and went away fully satisfied.
+Customer #1672067 left the queue at 265min 40sec and approached window #0.
+Customer #1672377 arrived at 265min 57sec and joined the queue.
+Customer #1672378 arrived at 265min 57sec and joined the queue.
+Customer #1672067 left the window #0 at 267min 6sec and went away fully satisfied.
+Customer #1672068 left the queue at 267min 6sec and approached window #0.
+Customer #1672066 left the window #1 at 267min 37sec and went away fully satisfied.
+Customer #1672069 left the queue at 267min 37sec and approached window #1.
+Customer #1672379 arrived at 267min 47sec and joined the queue.
+Customer #1672069 left the window #1 at 268min 41sec and went away fully satisfied.
+Customer #1672070 left the queue at 268min 41sec and approached window #1.
+Customer #1672380 arrived at 268min 50sec and joined the queue.
+Customer #1672381 arrived at 268min 50sec and joined the queue.
+Customer #1672068 left the window #0 at 270min 1sec and went away fully satisfied.
+Customer #1672071 left the queue at 270min 1sec and approached window #0.
+Customer #1672382 arrived at 270min 38sec and joined the queue.
+Customer #1672383 arrived at 270min 38sec and joined the queue.
+Customer #1672384 arrived at 270min 38sec and joined the queue.
+Customer #1672070 left the window #1 at 270min 46sec and went away fully satisfied.
+Customer #1672072 left the queue at 270min 46sec and approached window #1.
+Customer #1672071 left the window #0 at 272min 5sec and went away fully satisfied.
+Customer #1672073 left the queue at 272min 5sec and approached window #0.
+Customer #1672072 left the window #1 at 272min 23sec and went away fully satisfied.
+Customer #1672074 left the queue at 272min 23sec and approached window #1.
+Customer #1672385 arrived at 272min 27sec and joined the queue.
+Customer #1672386 arrived at 272min 41sec and joined the queue.
+Customer #1672387 arrived at 272min 41sec and joined the queue.
+Customer #1672388 arrived at 272min 41sec and joined the queue.
+Customer #1672389 arrived at 273min 24sec and joined the queue.
+Customer #1672390 arrived at 273min 24sec and joined the queue.
+Customer #1672391 arrived at 274min 29sec and joined the queue.
+Customer #1672392 arrived at 274min 29sec and joined the queue.
+Customer #1672073 left the window #0 at 275min 9sec and went away fully satisfied.
+Customer #1672075 left the queue at 275min 9sec and approached window #0.
+Customer #1672074 left the window #1 at 275min 19sec and went away fully satisfied.
+Customer #1672076 left the queue at 275min 19sec and approached window #1.
+Customer #1672393 arrived at 275min 46sec and joined the queue.
+Customer #1672394 arrived at 275min 46sec and joined the queue.
+Customer #1672075 left the window #0 at 276min 13sec and went away fully satisfied.
+Customer #1672077 left the queue at 276min 13sec and approached window #0.
+Customer #1672395 arrived at 277min 8sec and joined the queue.
+Customer #1672396 arrived at 277min 8sec and joined the queue.
+Customer #1672076 left the window #1 at 277min 50sec and went away fully satisfied.
+Customer #1672078 left the queue at 277min 50sec and approached window #1.
+Customer #1672397 arrived at 278min 17sec and joined the queue.
+Customer #1672077 left the window #0 at 278min 24sec and went away fully satisfied.
+Customer #1672079 left the queue at 278min 24sec and approached window #0.
+Customer #1672398 arrived at 278min 27sec and joined the queue.
+Customer #1672399 arrived at 279min 6sec and joined the queue.
+Customer #1672400 arrived at 280min 14sec and joined the queue.
+Customer #1672401 arrived at 280min 14sec and joined the queue.
+Customer #1672079 left the window #0 at 280min 44sec and went away fully satisfied.
+Customer #1672080 left the queue at 280min 44sec and approached window #0.
+Customer #1672078 left the window #1 at 280min 46sec and went away fully satisfied.
+Customer #1672081 left the queue at 280min 46sec and approached window #1.
+Customer #1672402 arrived at 281min 30sec and joined the queue.
+Customer #1672403 arrived at 281min 30sec and joined the queue.
+Customer #1672080 left the window #0 at 282min 8sec and went away fully satisfied.
+Customer #1672082 left the queue at 282min 8sec and approached window #0.
+Customer #1672404 arrived at 282min 21sec and joined the queue.
+Customer #1672082 left the window #0 at 283min 4sec and went away fully satisfied.
+Customer #1672083 left the queue at 283min 4sec and approached window #0.
+Customer #1672081 left the window #1 at 283min 29sec and went away fully satisfied.
+Customer #1672084 left the queue at 283min 29sec and approached window #1.
+Customer #1672405 arrived at 283min 42sec and joined the queue.
+Customer #1672406 arrived at 283min 42sec and joined the queue.
+Customer #1672083 left the window #0 at 284min 35sec and went away fully satisfied.
+Customer #1672085 left the queue at 284min 35sec and approached window #0.
+Customer #1672407 arrived at 284min 57sec and joined the queue.
+Customer #1672408 arrived at 284min 57sec and joined the queue.
+Customer #1672409 arrived at 285min 21sec and joined the queue.
+Customer #1672410 arrived at 285min 21sec and joined the queue.
+Customer #1672084 left the window #1 at 286min 7sec and went away fully satisfied.
+Customer #1672086 left the queue at 286min 7sec and approached window #1.
+Customer #1672411 arrived at 286min 24sec and joined the queue.
+Customer #1672412 arrived at 286min 24sec and joined the queue.
+Customer #1672413 arrived at 286min 48sec and joined the queue.
+Customer #1672414 arrived at 286min 48sec and joined the queue.
+Customer #1672415 arrived at 287min 16sec and joined the queue.
+Customer #1672416 arrived at 287min 16sec and joined the queue.
+Customer #1672417 arrived at 287min 16sec and joined the queue.
+Customer #1672085 left the window #0 at 287min 18sec and went away fully satisfied.
+Customer #1672087 left the queue at 287min 18sec and approached window #0.
+Customer #1672418 arrived at 287min 57sec and joined the queue.
+Customer #1672419 arrived at 287min 57sec and joined the queue.
+Customer #1672086 left the window #1 at 288min 11sec and went away fully satisfied.
+Customer #1672088 left the queue at 288min 11sec and approached window #1.
+Customer #1672087 left the window #0 at 288min 40sec and went away fully satisfied.
+Customer #1672089 left the queue at 288min 40sec and approached window #0.
+Customer #1672420 arrived at 288min 42sec and joined the queue.
+Customer #1672421 arrived at 288min 42sec and joined the queue.
+Customer #1672422 arrived at 289min 58sec and joined the queue.
+Customer #1672423 arrived at 289min 58sec and joined the queue.
+Customer #1672424 arrived at 289min 58sec and joined the queue.
+Customer #1672089 left the window #0 at 290min 8sec and went away fully satisfied.
+Customer #1672090 left the queue at 290min 8sec and approached window #0.
+Customer #1672088 left the window #1 at 291min 8sec and went away fully satisfied.
+Customer #1672091 left the queue at 291min 8sec and approached window #1.
+Customer #1672425 arrived at 291min 27sec and joined the queue.
+Customer #1672426 arrived at 292min 21sec and joined the queue.
+Customer #1672427 arrived at 292min 23sec and joined the queue.
+Customer #1672428 arrived at 292min 23sec and joined the queue.
+Customer #1672429 arrived at 292min 23sec and joined the queue.
+Customer #1672430 arrived at 292min 40sec and joined the queue.
+Customer #1672431 arrived at 292min 40sec and joined the queue.
+Customer #1672091 left the window #1 at 292min 52sec and went away fully satisfied.
+Customer #1672092 left the queue at 292min 52sec and approached window #1.
+Customer #1672090 left the window #0 at 292min 58sec and went away fully satisfied.
+Customer #1672093 left the queue at 292min 58sec and approached window #0.
+Customer #1672432 arrived at 293min 40sec and joined the queue.
+Customer #1672433 arrived at 293min 40sec and joined the queue.
+Customer #1672434 arrived at 293min 49sec and joined the queue.
+Customer #1672435 arrived at 293min 49sec and joined the queue.
+Customer #1672436 arrived at 294min 16sec and joined the queue.
+Customer #1672437 arrived at 294min 16sec and joined the queue.
+Customer #1672092 left the window #1 at 294min 47sec and went away fully satisfied.
+Customer #1672094 left the queue at 294min 47sec and approached window #1.
+Customer #1672093 left the window #0 at 295min 35sec and went away fully satisfied.
+Customer #1672095 left the queue at 295min 35sec and approached window #0.
+Customer #1672438 arrived at 295min 51sec and joined the queue.
+Customer #1672439 arrived at 295min 51sec and joined the queue.
+Customer #1672440 arrived at 295min 51sec and joined the queue.
+Customer #1672441 arrived at 295min 51sec and joined the queue.
+Customer #1672442 arrived at 295min 51sec and joined the queue.
+Customer #1672443 arrived at 295min 51sec and joined the queue.
+Customer #1672094 left the window #1 at 295min 54sec and went away fully satisfied.
+Customer #1672096 left the queue at 295min 54sec and approached window #1.
+Customer #1672444 arrived at 296min 23sec and joined the queue.
+Customer #1672095 left the window #0 at 296min 53sec and went away fully satisfied.
+Customer #1672097 left the queue at 296min 53sec and approached window #0.
+Customer #1672445 arrived at 296min 57sec and joined the queue.
+Customer #1672446 arrived at 296min 57sec and joined the queue.
+Customer #1672447 arrived at 297min 23sec and joined the queue.
+Customer #1672448 arrived at 297min 23sec and joined the queue.
+Customer #1672449 arrived at 297min 23sec and joined the queue.
+Customer #1672450 arrived at 298min 27sec and joined the queue.
+Customer #1672451 arrived at 298min 27sec and joined the queue.
+Customer #1672452 arrived at 298min 27sec and joined the queue.
+Customer #1672096 left the window #1 at 298min 28sec and went away fully satisfied.
+Customer #1672098 left the queue at 298min 28sec and approached window #1.
+Customer #1672453 arrived at 298min 44sec and joined the queue.
+Customer #1672097 left the window #0 at 299min 34sec and went away fully satisfied.
+Customer #1672099 left the queue at 299min 34sec and approached window #0.
+Customer #1672098 left the window #1 at 299min 51sec and went away fully satisfied.
+Customer #1672100 left the queue at 299min 51sec and approached window #1.
+Customer #1672454 arrived at 300min 13sec and joined the queue.
+Customer #1672455 arrived at 301min 24sec and joined the queue.
+Customer #1672456 arrived at 301min 24sec and joined the queue.
+Customer #1672100 left the window #1 at 301min 29sec and went away fully satisfied.
+Customer #1672101 left the queue at 301min 29sec and approached window #1.
+Customer #1672457 arrived at 301min 48sec and joined the queue.
+Customer #1672458 arrived at 301min 48sec and joined the queue.
+Customer #1672459 arrived at 301min 48sec and joined the queue.
+Customer #1672099 left the window #0 at 302min 22sec and went away fully satisfied.
+Customer #1672102 left the queue at 302min 22sec and approached window #0.
+Customer #1672460 arrived at 303min 13sec and joined the queue.
+Customer #1672461 arrived at 303min 13sec and joined the queue.
+Customer #1672462 arrived at 303min 13sec and joined the queue.
+Customer #1672102 left the window #0 at 303min 38sec and went away fully satisfied.
+Customer #1672103 left the queue at 303min 38sec and approached window #0.
+Customer #1672101 left the window #1 at 304min 5sec and went away fully satisfied.
+Customer #1672104 left the queue at 304min 5sec and approached window #1.
+Customer #1672463 arrived at 304min 11sec and joined the queue.
+Customer #1672464 arrived at 304min 23sec and joined the queue.
+Customer #1672465 arrived at 304min 52sec and joined the queue.
+Customer #1672466 arrived at 304min 52sec and joined the queue.
+Customer #1672467 arrived at 305min 9sec and joined the queue.
+Customer #1672468 arrived at 305min 31sec and joined the queue.
+Customer #1672103 left the window #0 at 306min 14sec and went away fully satisfied.
+Customer #1672105 left the queue at 306min 14sec and approached window #0.
+Customer #1672469 arrived at 306min 52sec and joined the queue.
+Customer #1672470 arrived at 306min 52sec and joined the queue.
+Customer #1672104 left the window #1 at 306min 58sec and went away fully satisfied.
+Customer #1672106 left the queue at 306min 58sec and approached window #1.
+Customer #1672471 arrived at 307min 18sec and joined the queue.
+Customer #1672472 arrived at 307min 26sec and joined the queue.
+Customer #1672473 arrived at 307min 26sec and joined the queue.
+Customer #1672105 left the window #0 at 307min 43sec and went away fully satisfied.
+Customer #1672107 left the queue at 307min 43sec and approached window #0.
+Customer #1672474 arrived at 308min 19sec and joined the queue.
+Customer #1672475 arrived at 308min 19sec and joined the queue.
+Customer #1672106 left the window #1 at 308min 31sec and went away fully satisfied.
+Customer #1672108 left the queue at 308min 31sec and approached window #1.
+Customer #1672476 arrived at 308min 35sec and joined the queue.
+Customer #1672477 arrived at 308min 35sec and joined the queue.
+Customer #1672478 arrived at 308min 38sec and joined the queue.
+Customer #1672479 arrived at 308min 38sec and joined the queue.
+Customer #1672107 left the window #0 at 309min 23sec and went away fully satisfied.
+Customer #1672109 left the queue at 309min 23sec and approached window #0.
+Customer #1672480 arrived at 309min 31sec and joined the queue.
+Customer #1672481 arrived at 309min 31sec and joined the queue.
+Customer #1672482 arrived at 309min 31sec and joined the queue.
+Customer #1672483 arrived at 309min 31sec and joined the queue.
+Customer #1672108 left the window #1 at 310min 8sec and went away fully satisfied.
+Customer #1672110 left the queue at 310min 8sec and approached window #1.
+Customer #1672484 arrived at 310min 22sec and joined the queue.
+Customer #1672485 arrived at 310min 22sec and joined the queue.
+Customer #1672486 arrived at 311min 16sec and joined the queue.
+Customer #1672487 arrived at 311min 16sec and joined the queue.
+Customer #1672109 left the window #0 at 312min 11sec and went away fully satisfied.
+Customer #1672111 left the queue at 312min 11sec and approached window #0.
+Customer #1672110 left the window #1 at 313min 5sec and went away fully satisfied.
+Customer #1672112 left the queue at 313min 5sec and approached window #1.
+Customer #1672488 arrived at 313min 6sec and joined the queue.
+Customer #1672489 arrived at 313min 6sec and joined the queue.
+Customer #1672490 arrived at 313min 9sec and joined the queue.
+Customer #1672491 arrived at 313min 9sec and joined the queue.
+Customer #1672492 arrived at 313min 30sec and joined the queue.
+Customer #1672493 arrived at 313min 30sec and joined the queue.
+Customer #1672494 arrived at 314min 0sec and joined the queue.
+Customer #1672112 left the window #1 at 314min 9sec and went away fully satisfied.
+Customer #1672113 left the queue at 314min 9sec and approached window #1.
+Customer #1672111 left the window #0 at 314min 26sec and went away fully satisfied.
+Customer #1672114 left the queue at 314min 26sec and approached window #0.
+Customer #1672495 arrived at 315min 3sec and joined the queue.
+Customer #1672113 left the window #1 at 316min 17sec and went away fully satisfied.
+Customer #1672115 left the queue at 316min 17sec and approached window #1.
+Customer #1672496 arrived at 316min 29sec and joined the queue.
+Customer #1672497 arrived at 316min 29sec and joined the queue.
+Customer #1672498 arrived at 316min 29sec and joined the queue.
+Customer #1672114 left the window #0 at 316min 48sec and went away fully satisfied.
+Customer #1672116 left the queue at 316min 48sec and approached window #0.
+Customer #1672499 arrived at 318min 2sec and joined the queue.
+Customer #1672115 left the window #1 at 318min 18sec and went away fully satisfied.
+Customer #1672117 left the queue at 318min 18sec and approached window #1.
+Customer #1672116 left the window #0 at 318min 54sec and went away fully satisfied.
+Customer #1672118 left the queue at 318min 54sec and approached window #0.
+Customer #1672117 left the window #1 at 319min 19sec and went away fully satisfied.
+Customer #1672119 left the queue at 319min 19sec and approached window #1.
+Customer #1672500 arrived at 319min 29sec and joined the queue.
+Customer #1672501 arrived at 319min 29sec and joined the queue.
+Customer #1672502 arrived at 320min 24sec and joined the queue.
+Customer #1672503 arrived at 320min 24sec and joined the queue.
+Customer #1672118 left the window #0 at 321min 21sec and went away fully satisfied.
+Customer #1672120 left the queue at 321min 21sec and approached window #0.
+Customer #1672504 arrived at 322min 8sec and joined the queue.
+Customer #1672505 arrived at 322min 8sec and joined the queue.
+Customer #1672506 arrived at 322min 8sec and joined the queue.
+Customer #1672119 left the window #1 at 322min 17sec and went away fully satisfied.
+Customer #1672121 left the queue at 322min 17sec and approached window #1.
+Customer #1672120 left the window #0 at 322min 23sec and went away fully satisfied.
+Customer #1672122 left the queue at 322min 23sec and approached window #0.
+Customer #1672507 arrived at 322min 37sec and joined the queue.
+Customer #1672508 arrived at 322min 37sec and joined the queue.
+Customer #1672121 left the window #1 at 323min 13sec and went away fully satisfied.
+Customer #1672123 left the queue at 323min 13sec and approached window #1.
+Customer #1672509 arrived at 324min 1sec and joined the queue.
+Customer #1672510 arrived at 324min 3sec and joined the queue.
+Customer #1672511 arrived at 324min 3sec and joined the queue.
+Customer #1672512 arrived at 324min 3sec and joined the queue.
+Customer #1672122 left the window #0 at 324min 7sec and went away fully satisfied.
+Customer #1672124 left the queue at 324min 7sec and approached window #0.
+Customer #1672124 left the window #0 at 325min 8sec and went away fully satisfied.
+Customer #1672125 left the queue at 325min 8sec and approached window #0.
+Customer #1672513 arrived at 325min 9sec and joined the queue.
+Customer #1672514 arrived at 325min 9sec and joined the queue.
+Customer #1672515 arrived at 325min 9sec and joined the queue.
+Customer #1672516 arrived at 325min 9sec and joined the queue.
+Customer #1672517 arrived at 325min 9sec and joined the queue.
+Customer #1672518 arrived at 325min 9sec and joined the queue.
+Customer #1672519 arrived at 325min 15sec and joined the queue.
+Customer #1672520 arrived at 325min 15sec and joined the queue.
+Customer #1672521 arrived at 325min 15sec and joined the queue.
+Customer #1672123 left the window #1 at 325min 39sec and went away fully satisfied.
+Customer #1672126 left the queue at 325min 39sec and approached window #1.
+Customer #1672522 arrived at 326min 52sec and joined the queue.
+Customer #1672523 arrived at 326min 52sec and joined the queue.
+Customer #1672524 arrived at 326min 52sec and joined the queue.
+Customer #1672126 left the window #1 at 327min 14sec and went away fully satisfied.
+Customer #1672127 left the queue at 327min 14sec and approached window #1.
+Customer #1672125 left the window #0 at 327min 38sec and went away fully satisfied.
+Customer #1672128 left the queue at 327min 38sec and approached window #0.
+Customer #1672525 arrived at 327min 41sec and joined the queue.
+Customer #1672526 arrived at 327min 41sec and joined the queue.
+Customer #1672527 arrived at 328min 38sec and joined the queue.
+Customer #1672528 arrived at 328min 38sec and joined the queue.
+Customer #1672529 arrived at 328min 38sec and joined the queue.
+Customer #1672128 left the window #0 at 329min 22sec and went away fully satisfied.
+Customer #1672129 left the queue at 329min 22sec and approached window #0.
+Customer #1672127 left the window #1 at 329min 54sec and went away fully satisfied.
+Customer #1672130 left the queue at 329min 54sec and approached window #1.
+Customer #1672530 arrived at 330min 7sec and joined the queue.
+Customer #1672531 arrived at 330min 48sec and joined the queue.
+Customer #1672130 left the window #1 at 330min 54sec and went away fully satisfied.
+Customer #1672131 left the queue at 330min 54sec and approached window #1.
+Customer #1672129 left the window #0 at 331min 17sec and went away fully satisfied.
+Customer #1672132 left the queue at 331min 17sec and approached window #0.
+Customer #1672532 arrived at 331min 24sec and joined the queue.
+Customer #1672533 arrived at 331min 24sec and joined the queue.
+Customer #1672534 arrived at 331min 54sec and joined the queue.
+Customer #1672535 arrived at 331min 54sec and joined the queue.
+Customer #1672131 left the window #1 at 333min 1sec and went away fully satisfied.
+Customer #1672536 arrived at 333min 1sec and joined the queue.
+Customer #1672537 arrived at 333min 1sec and joined the queue.
+Customer #1672538 arrived at 333min 1sec and joined the queue.
+Customer #1672539 arrived at 333min 1sec and joined the queue.
+Customer #1672540 arrived at 333min 1sec and joined the queue.
+Customer #1672133 left the queue at 333min 1sec and approached window #1.
+Customer #1672132 left the window #0 at 333min 7sec and went away fully satisfied.
+Customer #1672134 left the queue at 333min 7sec and approached window #0.
+Customer #1672541 arrived at 333min 19sec and joined the queue.
+Customer #1672542 arrived at 333min 19sec and joined the queue.
+Customer #1672543 arrived at 333min 51sec and joined the queue.
+Customer #1672544 arrived at 333min 51sec and joined the queue.
+Customer #1672133 left the window #1 at 334min 28sec and went away fully satisfied.
+Customer #1672135 left the queue at 334min 28sec and approached window #1.
+Customer #1672134 left the window #0 at 334min 56sec and went away fully satisfied.
+Customer #1672136 left the queue at 334min 56sec and approached window #0.
+Customer #1672545 arrived at 335min 39sec and joined the queue.
+Customer #1672546 arrived at 335min 39sec and joined the queue.
+Customer #1672547 arrived at 336min 49sec and joined the queue.
+Customer #1672548 arrived at 336min 49sec and joined the queue.
+Customer #1672136 left the window #0 at 337min 3sec and went away fully satisfied.
+Customer #1672137 left the queue at 337min 3sec and approached window #0.
+Customer #1672135 left the window #1 at 337min 5sec and went away fully satisfied.
+Customer #1672138 left the queue at 337min 5sec and approached window #1.
+Customer #1672549 arrived at 338min 13sec and joined the queue.
+Customer #1672550 arrived at 338min 17sec and joined the queue.
+Customer #1672551 arrived at 339min 39sec and joined the queue.
+Customer #1672552 arrived at 339min 39sec and joined the queue.
+Customer #1672553 arrived at 339min 39sec and joined the queue.
+Customer #1672554 arrived at 339min 39sec and joined the queue.
+Customer #1672555 arrived at 339min 39sec and joined the queue.
+Customer #1672138 left the window #1 at 339min 51sec and went away fully satisfied.
+Customer #1672139 left the queue at 339min 51sec and approached window #1.
+Customer #1672137 left the window #0 at 340min 2sec and went away fully satisfied.
+Customer #1672140 left the queue at 340min 2sec and approached window #0.
+Customer #1672140 left the window #0 at 341min 7sec and went away fully satisfied.
+Customer #1672141 left the queue at 341min 7sec and approached window #0.
+Customer #1672556 arrived at 341min 25sec and joined the queue.
+Customer #1672557 arrived at 341min 25sec and joined the queue.
+Customer #1672558 arrived at 341min 29sec and joined the queue.
+Customer #1672559 arrived at 341min 29sec and joined the queue.
+Customer #1672139 left the window #1 at 341min 39sec and went away fully satisfied.
+Customer #1672142 left the queue at 341min 39sec and approached window #1.
+Customer #1672560 arrived at 343min 13sec and joined the queue.
+Customer #1672141 left the window #0 at 343min 24sec and went away fully satisfied.
+Customer #1672143 left the queue at 343min 24sec and approached window #0.
+Customer #1672561 arrived at 343min 43sec and joined the queue.
+Customer #1672562 arrived at 343min 43sec and joined the queue.
+Customer #1672563 arrived at 343min 43sec and joined the queue.
+Customer #1672564 arrived at 344min 20sec and joined the queue.
+Customer #1672142 left the window #1 at 344min 26sec and went away fully satisfied.
+Customer #1672565 arrived at 344min 26sec and joined the queue.
+Customer #1672144 left the queue at 344min 26sec and approached window #1.
+Customer #1672143 left the window #0 at 344min 33sec and went away fully satisfied.
+Customer #1672145 left the queue at 344min 33sec and approached window #0.
+Customer #1672566 arrived at 345min 9sec and joined the queue.
+Customer #1672567 arrived at 345min 17sec and joined the queue.
+Customer #1672144 left the window #1 at 346min 37sec and went away fully satisfied.
+Customer #1672146 left the queue at 346min 37sec and approached window #1.
+Customer #1672145 left the window #0 at 346min 44sec and went away fully satisfied.
+Customer #1672147 left the queue at 346min 44sec and approached window #0.
+Customer #1672568 arrived at 346min 59sec and joined the queue.
+Customer #1672569 arrived at 346min 59sec and joined the queue.
+Customer #1672570 arrived at 347min 7sec and joined the queue.
+Customer #1672147 left the window #0 at 348min 15sec and went away fully satisfied.
+Customer #1672148 left the queue at 348min 15sec and approached window #0.
+Customer #1672146 left the window #1 at 348min 37sec and went away fully satisfied.
+Customer #1672149 left the queue at 348min 37sec and approached window #1.
+Customer #1672571 arrived at 348min 50sec and joined the queue.
+Customer #1672572 arrived at 348min 50sec and joined the queue.
+Customer #1672573 arrived at 349min 5sec and joined the queue.
+Customer #1672574 arrived at 349min 5sec and joined the queue.
+Customer #1672575 arrived at 349min 14sec and joined the queue.
+Customer #1672576 arrived at 349min 14sec and joined the queue.
+Customer #1672577 arrived at 349min 14sec and joined the queue.
+Customer #1672578 arrived at 349min 14sec and joined the queue.
+Customer #1672579 arrived at 349min 14sec and joined the queue.
+Customer #1672148 left the window #0 at 350min 8sec and went away fully satisfied.
+Customer #1672150 left the queue at 350min 8sec and approached window #0.
+Customer #1672149 left the window #1 at 350min 19sec and went away fully satisfied.
+Customer #1672151 left the queue at 350min 19sec and approached window #1.
+Customer #1672580 arrived at 350min 34sec and joined the queue.
+Customer #1672581 arrived at 350min 34sec and joined the queue.
+Customer #1672582 arrived at 350min 49sec and joined the queue.
+Customer #1672151 left the window #1 at 352min 1sec and went away fully satisfied.
+Customer #1672152 left the queue at 352min 1sec and approached window #1.
+Customer #1672583 arrived at 352min 2sec and joined the queue.
+Customer #1672150 left the window #0 at 352min 32sec and went away fully satisfied.
+Customer #1672153 left the queue at 352min 32sec and approached window #0.
+Customer #1672584 arrived at 353min 40sec and joined the queue.
+Customer #1672585 arrived at 353min 40sec and joined the queue.
+Customer #1672586 arrived at 353min 40sec and joined the queue.
+Customer #1672587 arrived at 353min 40sec and joined the queue.
+Customer #1672588 arrived at 353min 40sec and joined the queue.
+Customer #1672589 arrived at 353min 40sec and joined the queue.
+Customer #1672590 arrived at 354min 35sec and joined the queue.
+Customer #1672591 arrived at 354min 35sec and joined the queue.
+Customer #1672152 left the window #1 at 354min 38sec and went away fully satisfied.
+Customer #1672154 left the queue at 354min 38sec and approached window #1.
+Customer #1672592 arrived at 354min 58sec and joined the queue.
+Customer #1672153 left the window #0 at 355min 28sec and went away fully satisfied.
+Customer #1672155 left the queue at 355min 28sec and approached window #0.
+Customer #1672154 left the window #1 at 355min 51sec and went away fully satisfied.
+Customer #1672156 left the queue at 355min 51sec and approached window #1.
+Customer #1672593 arrived at 356min 20sec and joined the queue.
+Customer #1672594 arrived at 356min 49sec and joined the queue.
+Customer #1672595 arrived at 356min 49sec and joined the queue.
+Customer #1672155 left the window #0 at 356min 59sec and went away fully satisfied.
+Customer #1672157 left the queue at 356min 59sec and approached window #0.
+Customer #1672596 arrived at 357min 44sec and joined the queue.
+Customer #1672156 left the window #1 at 358min 16sec and went away fully satisfied.
+Customer #1672158 left the queue at 358min 16sec and approached window #1.
+Customer #1672597 arrived at 358min 45sec and joined the queue.
+Customer #1672598 arrived at 358min 45sec and joined the queue.
+Customer #1672157 left the window #0 at 359min 20sec and went away fully satisfied.
+Customer #1672159 left the queue at 359min 20sec and approached window #0.
+Customer #1672158 left the window #1 at 359min 44sec and went away fully satisfied.
+Customer #1672160 left the queue at 359min 44sec and approached window #1.

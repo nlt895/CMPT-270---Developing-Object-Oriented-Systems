@@ -1,0 +1,10 @@
+Total number of customers served: 358
+Maximum number of customers served in 1 window per hour: 32
+Maximum number of customers served in 2 window per hour: 32
+Average number of customers served in 1 window per hour: 29
+Average number of customers served in 2 window per hour: 29
+Average time in the queue: 101min 31sec
+Maximum time in the queue: 203min 25sec
+Average queue length: 238
+Maximum queue length: 477
+
